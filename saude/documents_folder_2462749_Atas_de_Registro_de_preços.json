@@ -1,0 +1,63 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3966873/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3966873"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3966873"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3966873"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3966873"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2462749/Ata_de_Registro_de_Precos_A.pdf/0d6c14ea-499d-27d3-75d7-7a6ab834726f?version=1.0&t=1725970303083",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-10T12:11:42Z",
+    "dateModified": "2024-09-10T12:11:43Z",
+    "description": "",
+    "documentFolderId": 2462749,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3966873",
+    "fileExtension": "pdf",
+    "id": 3966873,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 106859,
+    "taxonomyCategoryBriefs": [],
+    "title": "Ata_de_Registro_de_Precos_A.pdf",
+    "source_folder": {
+      "id": 2462749,
+      "name": "Atas de Registro de preços"
+    }
+  }
+]

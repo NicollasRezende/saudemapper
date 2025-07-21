@@ -1,0 +1,1218 @@
+[
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1075682"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:38:47Z",
+    "dateModified": "2022-05-02T14:38:47Z",
+    "description": "",
+    "id": 1075682,
+    "name": "Regionalização",
+    "numberOfStructuredContentFolders": 1,
+    "numberOfStructuredContents": 7,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1200748"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-22T02:49:42Z",
+    "dateModified": "2022-05-22T02:49:42Z",
+    "description": "Extrato de Pregão Eletrônico",
+    "id": 1200748,
+    "name": "Extrato de Pregão Eletrônico",
+    "numberOfStructuredContentFolders": 1,
+    "numberOfStructuredContents": 1685,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1359442"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-06-13T15:07:39Z",
+    "dateModified": "2022-06-13T15:07:39Z",
+    "description": "",
+    "id": 1359442,
+    "name": "Colegiado de Gestão",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 1,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/142733"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T23:13:12Z",
+    "dateModified": "2022-04-01T23:13:12Z",
+    "description": "Boletins Covid-19",
+    "id": 142733,
+    "name": "Boletins Covid-19",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 750,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/1475242"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2022-06-28T14:18:40Z",
+    "dateModified": "2022-06-28T14:18:40Z",
+    "description": "",
+    "id": 1475242,
+    "name": "Sistema",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 1,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/184017"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-02T22:59:05Z",
+    "dateModified": "2022-07-26T18:19:45Z",
+    "description": "Pasta de notícias..",
+    "id": 184017,
+    "name": "Notícias",
+    "numberOfStructuredContentFolders": 1,
+    "numberOfStructuredContents": 11823,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2494227"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-12T13:50:49Z",
+    "dateModified": "2022-09-12T13:51:00Z",
+    "description": "",
+    "id": 2494227,
+    "name": "Licitações",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 2,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928111"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2023-01-04T13:41:15Z",
+    "dateModified": "2023-01-04T13:41:15Z",
+    "description": "",
+    "id": 2928111,
+    "name": "Despesas",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 4,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2928989"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2022-12-28T12:56:23Z",
+    "dateModified": "2022-12-28T12:56:23Z",
+    "description": "",
+    "id": 2928989,
+    "name": "Convênios e Contratos de Gestão",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 4,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2937937"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2023-01-23T16:57:04Z",
+    "dateModified": "2023-01-23T16:57:04Z",
+    "description": "",
+    "id": 2937937,
+    "name": "Ofícios – Avisos de Abertura de Dispensas de Licitação – 2023",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 12,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2966620"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2023-02-13T17:11:30Z",
+    "dateModified": "2023-02-13T17:11:30Z",
+    "description": "",
+    "id": 2966620,
+    "name": "exemplo",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/2981160"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2023-02-11T11:41:57Z",
+    "dateModified": "2023-02-11T11:41:57Z",
+    "description": "",
+    "id": 2981160,
+    "name": "Contratos 2023",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3013598"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2023-03-18T17:10:33Z",
+    "dateModified": "2023-03-18T17:10:33Z",
+    "description": "",
+    "id": 3013598,
+    "name": "Contratos de comodato",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/3051901"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2023-04-27T14:13:08Z",
+    "dateModified": "2023-04-27T14:13:08Z",
+    "description": "",
+    "id": 3051901,
+    "name": "Acesso a Informação",
+    "numberOfStructuredContentFolders": 1,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/45999"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:01:02Z",
+    "dateModified": "2022-04-11T16:33:02Z",
+    "description": "Conteúdos da página inicial.",
+    "id": 45999,
+    "name": "Página Inicial",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 22,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/46001"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-23T05:52:01Z",
+    "dateModified": "2022-05-02T17:03:09Z",
+    "description": "Pasta dos conteúdos da página de Informações - Institucional.",
+    "id": 46001,
+    "name": "Informações",
+    "numberOfStructuredContentFolders": 24,
+    "numberOfStructuredContents": 1,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/48601"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-23T23:25:18Z",
+    "dateModified": "2022-12-16T18:01:21Z",
+    "description": "",
+    "id": 48601,
+    "name": "Transparência - Lei de Acesso à informação",
+    "numberOfStructuredContentFolders": 11,
+    "numberOfStructuredContents": 15,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/579007"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-04T01:19:18Z",
+    "dateModified": "2022-05-05T14:07:38Z",
+    "description": "Conteúdos da página de Contratos:\nSecretaria de Saúde do Distrito Federal > Transparência > Lei de Acesso à informação > Contratos\nDevem usar a Estrutura de Contrato.\nE devem ser categorizados por Ano.",
+    "id": 579007,
+    "name": "Contratos",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 749,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/68384"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-28T00:50:36Z",
+    "dateModified": "2022-03-28T00:50:36Z",
+    "description": "",
+    "id": 68384,
+    "name": "Cadastro de médicos para prescrição de medicamentos à base de Talidomida",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78178"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-28T17:47:41Z",
+    "dateModified": "2022-03-28T17:47:41Z",
+    "description": "",
+    "id": 78178,
+    "name": "Vigilância à Saúde",
+    "numberOfStructuredContentFolders": 12,
+    "numberOfStructuredContents": 29,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/78739"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-28T21:36:01Z",
+    "dateModified": "2022-03-28T21:36:01Z",
+    "description": "",
+    "id": 78739,
+    "name": "Comunicação",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 3,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/80149"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-29T01:11:24Z",
+    "dateModified": "2022-03-29T01:11:24Z",
+    "description": "",
+    "id": 80149,
+    "name": "Covid-19",
+    "numberOfStructuredContentFolders": 2,
+    "numberOfStructuredContents": 11,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/824240"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-15T00:45:57Z",
+    "dateModified": "2022-04-15T00:45:57Z",
+    "description": "",
+    "id": 824240,
+    "name": "Governança",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 13,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89042"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-29T20:50:19Z",
+    "dateModified": "2022-03-29T20:50:19Z",
+    "description": "",
+    "id": 89042,
+    "name": "Carta de Serviços",
+    "numberOfStructuredContentFolders": 26,
+    "numberOfStructuredContents": 1,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/89780"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-29T22:51:24Z",
+    "dateModified": "2022-03-30T01:33:53Z",
+    "description": "",
+    "id": 89780,
+    "name": "Subsecretarias",
+    "numberOfStructuredContentFolders": 8,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/904247"
+      }
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-18T21:26:51Z",
+    "dateModified": "2022-04-18T21:26:51Z",
+    "description": "",
+    "id": 904247,
+    "name": "Agenda do Secretário",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 0,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/91832"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-30T03:50:48Z",
+    "dateModified": "2022-03-30T03:50:48Z",
+    "description": "",
+    "id": 91832,
+    "name": "Comissão Central de Farmácia e Terapêutica (CCFT)",
+    "numberOfStructuredContentFolders": 0,
+    "numberOfStructuredContents": 1,
+    "siteId": 37101,
+    "subscribed": false
+  },
+  {
+    "actions": {
+      "subscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479/subscribe"
+      },
+      "unsubscribe": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479/unsubscribe"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479"
+      },
+      "add-subfolder": {
+        "method": "POST",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479/structured-content-folders"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/structured-content-folders/98479"
+      }
+    },
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T18:58:32Z",
+    "dateModified": "2022-03-31T18:58:32Z",
+    "description": "",
+    "id": 98479,
+    "name": "Vacinação",
+    "numberOfStructuredContentFolders": 5,
+    "numberOfStructuredContents": 2,
+    "siteId": 37101,
+    "subscribed": false
+  }
+]

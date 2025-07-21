@@ -1,0 +1,1068 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1084953/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1084953"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1084953"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1084953"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1084953"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Contrato_CONVENIO020840-2021__020840_2021.pdf/d4002c59-fadc-68aa-4293-64c11fa27db0?version=1.0&t=1651501489917",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:24:48Z",
+    "dateModified": "2022-05-02T14:24:49Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1084953",
+    "fileExtension": "pdf",
+    "id": 1084953,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 301929,
+    "taxonomyCategoryBriefs": [],
+    "title": "Contrato_CONVENIO020840-2021__020840_2021.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1152257/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1152257"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1152257"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1152257"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1152257"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/RELATORIOA_TUALIZADO_2021_HSVP___APROVADO_DGR.pdf/45bd3b81-0aad-0880-f079-810246b76675?version=1.0&t=1652704074613",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-16T12:27:54Z",
+    "dateModified": "2022-05-16T12:27:54Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1152257",
+    "fileExtension": "pdf",
+    "id": 1152257,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 893792,
+    "taxonomyCategoryBriefs": [],
+    "title": "RELATORIOA_TUALIZADO_2021_HSVP___APROVADO_DGR.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1158906/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1158906"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1158906"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1158906"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1158906"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1158906/Preview-1000x0/logo_new.png?t=1652722840970",
+        "height": 318,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 19318,
+        "width": 333
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1158906/Thumbnail-300x300/logo_new.png?t=1652722840970",
+        "height": 286,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 25553,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/logo_new.png/51cd82ea-04af-f184-ae44-4d1e533b25e9?version=1.0&t=1652722840970",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-16T17:40:40Z",
+    "dateModified": "2022-05-16T17:40:40Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1158906",
+    "fileExtension": "png",
+    "id": 1158906,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 32408,
+    "taxonomyCategoryBriefs": [],
+    "title": "logo_new.png",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1301032/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1301032"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1301032"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1301032"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1301032"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Linguagem+Simples.pdf/1fef4f4a-a6b1-13f8-cf40-cfcfb6e3d6ec?version=1.0&t=1653933883950",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-30T18:04:40Z",
+    "dateModified": "2022-05-30T18:04:43Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1301032",
+    "fileExtension": "pdf",
+    "id": 1301032,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 3846366,
+    "taxonomyCategoryBriefs": [],
+    "title": "Linguagem Simples.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1339072/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1339072"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1339072"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1339072"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1339072"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Relatorio_88377223_2022_06_01_RAG_2021_Oficial.pdf/8251701e-f95a-febe-1a7a-b2379f5b7775?version=1.0&t=1654785491021",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-06-09T14:38:07Z",
+    "dateModified": "2022-06-09T14:38:11Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1339072",
+    "fileExtension": "pdf",
+    "id": 1339072,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 6230753,
+    "taxonomyCategoryBriefs": [],
+    "title": "Relatorio_88377223_2022_06_01_RAG_2021_Oficial.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1345007/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1345007"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1345007"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1345007"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1345007"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Ata+9%C2%AA+Reuni%C3%A3o+CIG.pdf/4dba56d7-66f9-6cb7-09c7-41da3de78805?version=2.0&t=1742402235480",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-06-10T16:52:29Z",
+    "dateModified": "2025-03-19T16:37:15Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1345007",
+    "fileExtension": "pdf",
+    "id": 1345007,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1189885,
+    "taxonomyCategoryBriefs": [],
+    "title": "Ata 9ª Reunião CIG.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2172006/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2172006"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2172006"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2172006"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2172006"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Protocolo+de+Manejo+da+Diabetes+Mellitus+na+Secretaria+de+Sa%C3%BAde+do+Distrito+Federal.pdf/2da52341-ab2b-c767-711b-98de458248b1?version=1.0&t=1659436475985",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-08-02T10:34:35Z",
+    "dateModified": "2022-08-02T10:34:35Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2172006",
+    "fileExtension": "pdf",
+    "id": 2172006,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2461583,
+    "taxonomyCategoryBriefs": [],
+    "title": "Protocolo de Manejo da Diabetes Mellitus na Secretaria de Saúde do Distrito Federal.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2186814/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2186814"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2186814"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2186814"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2186814"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/2186814/Preview-1000x0/logo.png?t=1659613384834",
+        "height": 79,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 12415,
+        "width": 385
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/2186814/Thumbnail-300x300/logo.png?t=1659613384834",
+        "height": 62,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 11662,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/logo.png/5a36e809-61b3-5d49-cf61-db2226775534?version=1.0&t=1659613384834",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "2",
+      "givenName": "Lorena2",
+      "id": 2166950,
+      "name": "Lorena2 2"
+    },
+    "customFields": [],
+    "dateCreated": "2022-08-04T11:43:04Z",
+    "dateModified": "2022-08-04T11:43:04Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "2186814",
+    "fileExtension": "png",
+    "id": 2186814,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 12415,
+    "taxonomyCategoryBriefs": [],
+    "title": "logo.png",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2191285/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2191285"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2191285"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2191285"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2191285"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/2191285/Preview-1000x0/Tabela+termo+de+fomento-MROSC-000009-2021.jpg?t=1659965166814",
+        "height": 568,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 88779,
+        "width": 641
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/2191285/Thumbnail-300x300/Tabela+termo+de+fomento-MROSC-000009-2021.jpg?t=1659965166814",
+        "height": 266,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 23653,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/Tabela+termo+de+fomento-MROSC-000009-2021.jpg/242287bb-f8a5-92d9-3bbf-0f5adcfc6b6b?version=1.0&t=1659965166814",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-08-08T13:26:04Z",
+    "dateModified": "2022-08-08T13:26:06Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "2191285",
+    "fileExtension": "jpg",
+    "id": 2191285,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 136518,
+    "taxonomyCategoryBriefs": [],
+    "title": "Tabela termo de fomento-MROSC-000009-2021.jpg",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2563099/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2563099"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2563099"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2563099"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2563099"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Comprovante_DIARIAS_2018_SECRETARIA_DE_SAUDE.pdf/f6fdc712-db5c-e940-5290-00a9c820a444?version=1.0&t=1663947859676",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-23T15:44:19Z",
+    "dateModified": "2022-09-23T15:44:19Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2563099",
+    "fileExtension": "pdf",
+    "id": 2563099,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 82593,
+    "taxonomyCategoryBriefs": [],
+    "title": "Comprovante_DIARIAS_2018_SECRETARIA_DE_SAUDE.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2596131/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2596131"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2596131"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2596131"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2596131"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Publicacao_96654623_index.pdf/cd15bd59-30f8-93f3-222d-548da57dec3b?version=1.0&t=1664470581434",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-29T16:56:21Z",
+    "dateModified": "2022-09-29T16:56:21Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2596131",
+    "fileExtension": "pdf",
+    "id": 2596131,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7059934,
+    "taxonomyCategoryBriefs": [],
+    "title": "Publicacao_96654623_index.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2790154/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2790154"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2790154"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2790154"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2790154"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Manual+de+Fornecimento+de+Insumos+para+Pessoas+com+Disfun%C3%A7%C3%A3o+Miccional.pdf/3ba4ce1d-77f0-8d5c-0854-54fcf65f2c8f?version=1.0&t=1666717749166",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-10-25T17:09:09Z",
+    "dateModified": "2022-10-25T17:09:09Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2790154",
+    "fileExtension": "pdf",
+    "id": 2790154,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2281197,
+    "taxonomyCategoryBriefs": [],
+    "title": "Manual de Fornecimento de Insumos para Pessoas com Disfunção Miccional.pdf",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53852/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53852"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53852"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53852"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53852"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/53852/Preview-1000x0/Cartilha+da+Lei+de+Acesso+%C3%A0+Informa%C3%A7%C3%A3o+-+p%C3%A1gina+7.png?t=1648176620265",
+        "height": 167,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 143519,
+        "width": 403
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/53852/Thumbnail-300x300/Cartilha+da+Lei+de+Acesso+%C3%A0+Informa%C3%A7%C3%A3o+-+p%C3%A1gina+7.png?t=1648176620265",
+        "height": 124,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 79796,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/Cartilha+da+Lei+de+Acesso+%C3%A0+Informa%C3%A7%C3%A3o+-+p%C3%A1gina+7.png/8a184c4f-90e7-5e1b-1900-e994467c23cf?version=1.0&t=1648176620265",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-25T02:50:19Z",
+    "dateModified": "2022-03-25T02:50:20Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "53852",
+    "fileExtension": "png",
+    "id": 53852,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 149415,
+    "taxonomyCategoryBriefs": [],
+    "title": "Cartilha da Lei de Acesso à Informação - página 7.png",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53863/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53863"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53863"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53863"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/53863"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/53863/Preview-1000x0/PRAZOS.png?t=1648176680872",
+        "height": 279,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 70026,
+        "width": 916
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/53863/Thumbnail-300x300/PRAZOS.png?t=1648176680872",
+        "height": 91,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 20302,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/PRAZOS.png/3608bbde-d786-c0bb-f588-a38176f2da6c?version=1.0&t=1648176680872",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-25T02:51:20Z",
+    "dateModified": "2022-03-25T02:51:20Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "53863",
+    "fileExtension": "png",
+    "id": 53863,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 83079,
+    "taxonomyCategoryBriefs": [],
+    "title": "PRAZOS.png",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60240/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60240"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60240"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60240"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60240"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/47644/Regimento-Interno-SES-DF-20DEZ2018.pdf/e958d16a-c89d-0982-a2be-53cece030925?version=2.0&t=1742401784778",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-26T23:32:52Z",
+    "dateModified": "2025-03-19T16:29:44Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "60240",
+    "fileExtension": "pdf",
+    "id": 60240,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 5530816,
+    "taxonomyCategoryBriefs": [],
+    "title": "Regimento-Interno-SES-DF-20DEZ2018",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60258/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60258"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60258"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60258"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/60258"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/60258/Preview-1000x0/COMPETENCIAS-SES-LAI-1.png?t=1648337916043",
+        "height": 740,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 158510,
+        "width": 721
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/60258/Thumbnail-300x300/COMPETENCIAS-SES-LAI-1.png?t=1648337916043",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 38554,
+        "width": 292
+      }
+    ],
+    "contentUrl": "/documents/37101/47644/COMPETENCIAS-SES-LAI-1.png/b9308b5e-8ef9-bac0-894d-b0f2dcb69ed7?version=1.0&t=1648337916043",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-26T23:38:36Z",
+    "dateModified": "2022-03-26T23:38:36Z",
+    "description": "",
+    "documentFolderId": 47644,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "60258",
+    "fileExtension": "png",
+    "id": 60258,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 162599,
+    "taxonomyCategoryBriefs": [],
+    "title": "COMPETENCIAS-SES-LAI-1.png",
+    "source_folder": {
+      "id": 47644,
+      "name": "Transparência - Lei de Acesso à Informação"
+    }
+  }
+]

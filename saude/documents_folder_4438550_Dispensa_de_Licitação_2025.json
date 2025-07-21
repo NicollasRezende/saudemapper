@@ -1,0 +1,429 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443032/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443032"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443032"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443032"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443032"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/Resultado+DL+90040+2025+DODF+26+06+2025+Pg+59.pdf/5be5a069-5a0c-0103-b3cc-1746b3662050?version=1.0&t=1751477938986",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T17:38:58Z",
+    "dateModified": "2025-07-02T17:38:58Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443032",
+    "fileExtension": "pdf",
+    "id": 4443032,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1002918,
+    "taxonomyCategoryBriefs": [],
+    "title": "Resultado DL 90040 2025 DODF 26 06 2025 Pg 59.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443054/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443054"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443054"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443054"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443054"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/DODF+DL+90082+2025+Abertura.pdf/d03154f0-b42e-cc15-9077-7591510a509a?version=1.0&t=1751478267848",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T17:44:27Z",
+    "dateModified": "2025-07-02T17:44:27Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443054",
+    "fileExtension": "pdf",
+    "id": 4443054,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1073985,
+    "taxonomyCategoryBriefs": [],
+    "title": "DODF DL 90082 2025 Abertura.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443064/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443064"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443064"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443064"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443064"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/Edital+DL+90082+2025+Abertura.pdf/20df2514-324a-bee2-fea8-5dfac0d74469?version=1.0&t=1751478303375",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T17:45:03Z",
+    "dateModified": "2025-07-02T17:45:03Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443064",
+    "fileExtension": "pdf",
+    "id": 4443064,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2083557,
+    "taxonomyCategoryBriefs": [],
+    "title": "Edital DL 90082 2025 Abertura.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443086/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443086"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443086"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443086"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443086"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/DODF+DL+90083+2025+Abertura.pdf/2224bda5-36f9-5d02-fe33-31d050c29606?version=1.0&t=1751478425712",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T17:47:05Z",
+    "dateModified": "2025-07-02T17:47:05Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443086",
+    "fileExtension": "pdf",
+    "id": 4443086,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1073876,
+    "taxonomyCategoryBriefs": [],
+    "title": "DODF DL 90083 2025 Abertura.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443096/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443096"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443096"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443096"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443096"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/Edital+DL+90083+2025+Abertura.pdf/68a4ed91-f349-b7b7-1692-74ae62bccb98?version=1.0&t=1751478449423",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T17:47:29Z",
+    "dateModified": "2025-07-02T17:47:29Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443096",
+    "fileExtension": "pdf",
+    "id": 4443096,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2165643,
+    "taxonomyCategoryBriefs": [],
+    "title": "Edital DL 90083 2025 Abertura.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443829/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443829"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443829"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443829"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443829"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/Resultado+DL+90071+2025+DODF+03+07+2025+Pg+60.pdf/764f41f7-6a07-d208-19e8-5e34c31f225c?version=1.0&t=1751653235325",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-04T18:20:18Z",
+    "dateModified": "2025-07-04T18:20:35Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443829",
+    "fileExtension": "pdf",
+    "id": 4443829,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 54236,
+    "taxonomyCategoryBriefs": [],
+    "title": "Resultado DL 90071 2025 DODF 03 07 2025 Pg 60.pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443851/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443851"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443851"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443851"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443851"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438550/Resultado+DL+90071+2025+DODF+03+07+2025+Pg+60+%281%29.pdf/90d3cc19-93ec-0de1-b684-b8f9a265517e?version=1.0&t=1751654912508",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-04T18:48:29Z",
+    "dateModified": "2025-07-04T18:48:32Z",
+    "description": "",
+    "documentFolderId": 4438550,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443851",
+    "fileExtension": "pdf",
+    "id": 4443851,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 54236,
+    "taxonomyCategoryBriefs": [],
+    "title": "Resultado DL 90071 2025 DODF 03 07 2025 Pg 60 (1).pdf",
+    "source_folder": {
+      "id": 4438550,
+      "name": "Dispensa de Licitação 2025"
+    }
+  }
+]

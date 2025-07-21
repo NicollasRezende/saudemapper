@@ -1,0 +1,884 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1324078/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1324078"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1324078"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1324078"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1324078"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1324078/Preview-1000x0/image.png?t=1654622312413",
+        "height": 457,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 29545,
+        "width": 764
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1324078/Thumbnail-300x300/image.png?t=1654622312413",
+        "height": 179,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 39805,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/image.png/70669b5a-6526-7d0d-13b2-5921e80f5742?version=1.0&t=1654622312413",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-06-07T17:18:32Z",
+    "dateModified": "2022-06-07T17:18:32Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1324078",
+    "fileExtension": "png",
+    "id": 1324078,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 53115,
+    "taxonomyCategoryBriefs": [],
+    "title": "image.png",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2739230/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2739230"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2739230"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2739230"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2739230"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/2739230/Preview-1000x0/Tecnologias+Demandas+para+Avalia%C3%A7%C3%A3o+na+CCFT.jpg?t=1666024313179",
+        "height": 917,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 169083,
+        "width": 823
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/2739230/Thumbnail-300x300/Tecnologias+Demandas+para+Avalia%C3%A7%C3%A3o+na+CCFT.jpg?t=1666024313179",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 20908,
+        "width": 269
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/Tecnologias+Demandas+para+Avalia%C3%A7%C3%A3o+na+CCFT.jpg/25e0a55e-7bfc-dbac-fac2-3fc4a9234165?version=1.0&t=1666024313179",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-10-17T16:31:53Z",
+    "dateModified": "2022-10-17T16:31:53Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "2739230",
+    "fileExtension": "jpg",
+    "id": 2739230,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 269584,
+    "taxonomyCategoryBriefs": [],
+    "title": "Tecnologias Demandas para Avaliação na CCFT.jpg",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96399/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96399"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96399"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96399"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96399"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96399/Preview-1000x0/Capturar-2.png?t=1648729525512",
+        "height": 241,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 55220,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96399/Thumbnail-300x300/Capturar-2.png?t=1648729525512",
+        "height": 72,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 10593,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/Capturar-2.png/5ae3129c-5367-1eee-eeb1-21bf5983be76?version=1.0&t=1648729525512",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:13Z",
+    "dateModified": "2022-03-31T12:25:25Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96399",
+    "fileExtension": "png",
+    "id": 96399,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 36098,
+    "taxonomyCategoryBriefs": [],
+    "title": "Capturar-2",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96406/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96406"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96406"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96406"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96406"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96406/Preview-1000x0/fluxo_de_priorizacao_de_demandas_Figura-5+%281%29.png?t=1648729527002",
+        "height": 780,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 20801,
+        "width": 701
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96406/Thumbnail-300x300/fluxo_de_priorizacao_de_demandas_Figura-5+%281%29.png?t=1648729527002",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 13858,
+        "width": 270
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/fluxo_de_priorizacao_de_demandas_Figura-5+%281%29.png/1f24e9f0-248a-1d56-33ed-0fa3e994e897?version=1.0&t=1648729527002",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:26Z",
+    "dateModified": "2022-03-31T12:25:27Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96406",
+    "fileExtension": "png",
+    "id": 96406,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 29038,
+    "taxonomyCategoryBriefs": [],
+    "title": "fluxo_de_priorizacao_de_demandas_Figura-5 (1)",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96419/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96419"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96419"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96419"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96419"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96419/Preview-1000x0/passos_para_incorporacao_-Figura-3+%281%29.png?t=1648729527879",
+        "height": 694,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 46225,
+        "width": 754
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96419/Thumbnail-300x300/passos_para_incorporacao_-Figura-3+%281%29.png?t=1648729527879",
+        "height": 276,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 33156,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/passos_para_incorporacao_-Figura-3+%281%29.png/cb8c8c53-4572-07ae-fd03-477a2e93173b?version=1.0&t=1648729527879",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:27Z",
+    "dateModified": "2022-03-31T12:25:27Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96419",
+    "fileExtension": "png",
+    "id": 96419,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 65389,
+    "taxonomyCategoryBriefs": [],
+    "title": "passos_para_incorporacao_-Figura-3 (1)",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96430/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96430"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96430"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96430"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96430"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96430/Preview-1000x0/fluxo_de_priorizacao_de_demandas_Figura-5.png?t=1648729528780",
+        "height": 780,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 20801,
+        "width": 701
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96430/Thumbnail-300x300/fluxo_de_priorizacao_de_demandas_Figura-5.png?t=1648729528780",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 13858,
+        "width": 270
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/fluxo_de_priorizacao_de_demandas_Figura-5.png/584af2a5-516a-183d-0083-15fe27ca1297?version=1.0&t=1648729528780",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:28Z",
+    "dateModified": "2022-03-31T12:25:28Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96430",
+    "fileExtension": "png",
+    "id": 96430,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 29038,
+    "taxonomyCategoryBriefs": [],
+    "title": "fluxo_de_priorizacao_de_demandas_Figura-5",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96441/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96441"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96441"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96441"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96441"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96441/Preview-1000x0/passos_para_incorporacao_-Figura-3.png?t=1648729529842",
+        "height": 694,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 46225,
+        "width": 754
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96441/Thumbnail-300x300/passos_para_incorporacao_-Figura-3.png?t=1648729529842",
+        "height": 276,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 33156,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/passos_para_incorporacao_-Figura-3.png/10e16903-e012-ab42-1e69-ac1e7cb0b233?version=1.0&t=1648729529842",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:29Z",
+    "dateModified": "2022-03-31T12:25:29Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96441",
+    "fileExtension": "png",
+    "id": 96441,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 65389,
+    "taxonomyCategoryBriefs": [],
+    "title": "passos_para_incorporacao_-Figura-3",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96452/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96452"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96452"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96452"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96452"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/96389/3_-_Formul%C3%A1rio_de_Solicitacao_-_2016.doc/1f30244a-de0f-7e26-88fc-efd591eadb39?version=1.0&t=1648729530558",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:30Z",
+    "dateModified": "2022-03-31T12:25:30Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/msword",
+    "externalReferenceCode": "96452",
+    "fileExtension": "doc",
+    "id": 96452,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 79872,
+    "taxonomyCategoryBriefs": [],
+    "title": "3_-_Formulário_de_Solicitacao_-_2016",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96459/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96459"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96459"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96459"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96459"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96459/Preview-1000x0/composicao_do_CCFT_Figura-2.png?t=1648729533047",
+        "height": 464,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 33297,
+        "width": 868
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96459/Thumbnail-300x300/composicao_do_CCFT_Figura-2.png?t=1648729533047",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 17929,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/composicao_do_CCFT_Figura-2.png/50c2fdf6-03e7-09de-9b9e-e39f94143773?version=1.0&t=1648729533047",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:32Z",
+    "dateModified": "2022-03-31T12:25:33Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96459",
+    "fileExtension": "png",
+    "id": 96459,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 42656,
+    "taxonomyCategoryBriefs": [],
+    "title": "composicao_do_CCFT_Figura-2",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96472/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96472"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96472"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96472"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96472"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96472/Preview-1000x0/organograma_-Figura-1.png?t=1648729533958",
+        "height": 444,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 11169,
+        "width": 635
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96472/Thumbnail-300x300/organograma_-Figura-1.png?t=1648729533958",
+        "height": 210,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9016,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/organograma_-Figura-1.png/35605995-647e-e0db-1f78-cd60bb82f3dd?version=1.0&t=1648729533958",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:25:33Z",
+    "dateModified": "2022-03-31T12:25:33Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96472",
+    "fileExtension": "png",
+    "id": 96472,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 14166,
+    "taxonomyCategoryBriefs": [],
+    "title": "organograma_-Figura-1",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96496/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96496"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96496"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96496"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96496"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/96496/Preview-1000x0/topicos_Figura-6.png?t=1648729911421",
+        "height": 465,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 34305,
+        "width": 789
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/96496/Thumbnail-300x300/topicos_Figura-6.png?t=1648729911421",
+        "height": 177,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 22219,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/96389/topicos_Figura-6.png/e21ea190-c604-5462-4e88-93739af7d167?version=1.0&t=1648729911421",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T12:31:51Z",
+    "dateModified": "2022-03-31T12:31:51Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "96496",
+    "fileExtension": "png",
+    "id": 96496,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 46549,
+    "taxonomyCategoryBriefs": [],
+    "title": "topicos_Figura-6",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96537/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96537"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96537"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96537"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/96537"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/96389/2___Regimento_Interno_Comissao_de_Farmacia_e_Terapeutica.pdf/e3d99b26-f26f-5f36-d2c0-1f3dc4f21f08?version=1.0&t=1648731638676",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-31T13:00:25Z",
+    "dateModified": "2022-03-31T13:00:38Z",
+    "description": "",
+    "documentFolderId": 96389,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "96537",
+    "fileExtension": "pdf",
+    "id": 96537,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 186302,
+    "taxonomyCategoryBriefs": [],
+    "title": "2___Regimento_Interno_Comissao_de_Farmacia_e_Terapeutica",
+    "source_folder": {
+      "id": 96389,
+      "name": "Comissão Central de Farmácia e Terapêutica (CCFT)"
+    }
+  }
+]

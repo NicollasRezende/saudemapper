@@ -1,0 +1,19 @@
+{
+  "coleta_realizada_em": "2025-07-21T14:06:07.066855",
+  "duracao_total": "0:51:30.255373",
+  "estatisticas": {
+    "conteudos_estruturados": 8300,
+    "pastas_de_conteudo": 28,
+    "paginas_do_site": 10,
+    "pastas_de_documentos": 36,
+    "documentos": 826,
+    "erros": 1
+  },
+  "configuracao": {
+    "base_url": "https://www.saude.df.gov.br",
+    "site_id": "37101",
+    "output_dir": "liferay_data",
+    "username": "nicollas.pereira@seatecnologia.com.br",
+    "csrf_token_obtido": false
+  }
+}

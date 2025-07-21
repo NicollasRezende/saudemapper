@@ -1,0 +1,306 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139173/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139173"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139173"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139173"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139173"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1139173/Preview-1000x0/banner_-_plano-de-enfrentamento-Zika-768x114.jpg?t=1652310741824",
+        "height": 114,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 13416,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1139173/Thumbnail-300x300/banner_-_plano-de-enfrentamento-Zika-768x114.jpg?t=1652310741824",
+        "height": 45,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 3962,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1139158/banner_-_plano-de-enfrentamento-Zika-768x114.jpg/bc0fb1c0-61fe-3f71-0240-3dddf2479867?version=1.0&t=1652310741824",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-11T23:12:21Z",
+    "dateModified": "2022-05-11T23:12:21Z",
+    "description": "",
+    "documentFolderId": 1139158,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "1139173",
+    "fileExtension": "jpg",
+    "id": 1139173,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 21785,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_-_plano-de-enfrentamento-Zika-768x114",
+    "source_folder": {
+      "id": 1139158,
+      "name": "Programas – Combate ao Aedes Aegypti"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139184/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139184"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139184"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139184"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139184"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1139184/Preview-1000x0/Banner-plano-de-acao-dengue-768x114.jpg?t=1652310742284",
+        "height": 114,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 15046,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1139184/Thumbnail-300x300/Banner-plano-de-acao-dengue-768x114.jpg?t=1652310742284",
+        "height": 45,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 4275,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1139158/Banner-plano-de-acao-dengue-768x114.jpg/7bb202a0-5aa8-e6db-f82a-5b4bec24a724?version=1.0&t=1652310742284",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-11T23:12:22Z",
+    "dateModified": "2022-05-11T23:12:22Z",
+    "description": "",
+    "documentFolderId": 1139158,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "1139184",
+    "fileExtension": "jpg",
+    "id": 1139184,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 23474,
+    "taxonomyCategoryBriefs": [],
+    "title": "Banner-plano-de-acao-dengue-768x114",
+    "source_folder": {
+      "id": 1139158,
+      "name": "Programas – Combate ao Aedes Aegypti"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139199/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139199"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139199"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139199"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139199"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1139199/Preview-1000x0/Dengue_zika_chikum.png?t=1652310742679",
+        "height": 76,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 47732,
+        "width": 462
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1139199/Thumbnail-300x300/Dengue_zika_chikum.png?t=1652310742679",
+        "height": 49,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 25245,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1139158/Dengue_zika_chikum.png/9dc8b00a-895c-cf11-90c6-1d6ab6394b23?version=1.0&t=1652310742679",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-11T23:12:22Z",
+    "dateModified": "2022-05-11T23:12:22Z",
+    "description": "",
+    "documentFolderId": 1139158,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1139199",
+    "fileExtension": "png",
+    "id": 1139199,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 49689,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dengue_zika_chikum",
+    "source_folder": {
+      "id": 1139158,
+      "name": "Programas – Combate ao Aedes Aegypti"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139212/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139212"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139212"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139212"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1139212"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1139212/Preview-1000x0/MicrocefaliaBanner.png?t=1652310743063",
+        "height": 76,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 12144,
+        "width": 460
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1139212/Thumbnail-300x300/MicrocefaliaBanner.png?t=1652310743063",
+        "height": 50,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9803,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1139158/MicrocefaliaBanner.png/eb17229a-c30a-b3e6-c362-96e0949ac1da?version=1.0&t=1652310743063",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Admin",
+      "givenName": "Admin",
+      "id": 1118729,
+      "name": "Admin Admin"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-11T23:12:22Z",
+    "dateModified": "2022-05-11T23:12:23Z",
+    "description": "",
+    "documentFolderId": 1139158,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1139212",
+    "fileExtension": "png",
+    "id": 1139212,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 13686,
+    "taxonomyCategoryBriefs": [],
+    "title": "MicrocefaliaBanner",
+    "source_folder": {
+      "id": 1139158,
+      "name": "Programas – Combate ao Aedes Aegypti"
+    }
+  }
+]

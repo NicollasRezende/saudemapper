@@ -1,0 +1,1826 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100001/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100001"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100001"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100001"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100001"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100001/Preview-1000x0/Nao-compartilhe-noticia-falsa.gif?t=1648772697229",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 183678,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100001/Thumbnail-300x300/Nao-compartilhe-noticia-falsa.gif?t=1648772697229",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 17384,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/Nao-compartilhe-noticia-falsa.gif/154170a7-144a-917d-0881-c3494fe921cd?version=1.0&t=1648772697229",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:57Z",
+    "dateModified": "2022-04-01T00:24:57Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/gif",
+    "externalReferenceCode": "100001",
+    "fileExtension": "gif",
+    "id": 100001,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2990341,
+    "taxonomyCategoryBriefs": [],
+    "title": "Nao-compartilhe-noticia-falsa",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100012/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100012"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100012"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100012"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100012"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100012/Preview-1000x0/Nao-se-deixe-enganar-Ma-interpretacao-de-dados.png?t=1648772697947",
+        "height": 625,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 412437,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100012/Thumbnail-300x300/Nao-se-deixe-enganar-Ma-interpretacao-de-dados.png?t=1648772697947",
+        "height": 188,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 56741,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/Nao-se-deixe-enganar-Ma-interpretacao-de-dados.png/f6a9ee5b-27be-a101-7a18-13379622a9a6?version=1.0&t=1648772697947",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:57Z",
+    "dateModified": "2022-04-01T00:24:57Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "100012",
+    "fileExtension": "png",
+    "id": 100012,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 653552,
+    "taxonomyCategoryBriefs": [],
+    "title": "Nao-se-deixe-enganar-Ma-interpretacao-de-dados",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100024/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100024"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100024"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100024"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100024"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100024/Preview-1000x0/SAUDE-SEM-FAKE-NEWS.jpg?t=1648772698903",
+        "height": 81,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 15355,
+        "width": 751
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100024/Thumbnail-300x300/SAUDE-SEM-FAKE-NEWS.jpg?t=1648772698903",
+        "height": 32,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 4382,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/SAUDE-SEM-FAKE-NEWS.jpg/03c643b5-b9dc-63df-95cd-d0a98849fbd6?version=1.0&t=1648772698903",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:58Z",
+    "dateModified": "2022-04-01T00:24:58Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "100024",
+    "fileExtension": "jpg",
+    "id": 100024,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 67094,
+    "taxonomyCategoryBriefs": [],
+    "title": "SAUDE-SEM-FAKE-NEWS",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100038/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100038"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100038"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100038"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100038"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100038/Preview-1000x0/Stories_Fake_News-2.png?t=1648772699814",
+        "height": 1778,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 1788601,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100038/Thumbnail-300x300/Stories_Fake_News-2.png?t=1648772699814",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 90708,
+        "width": 169
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/Stories_Fake_News-2.png/9787f0a2-0109-7f0f-34f4-85181ec74ac4?version=1.0&t=1648772699814",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:59Z",
+    "dateModified": "2022-04-01T00:24:59Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "100038",
+    "fileExtension": "png",
+    "id": 100038,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1648058,
+    "taxonomyCategoryBriefs": [],
+    "title": "Stories_Fake_News-2",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100050/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100050"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100050"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100050"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100050"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100050/Preview-1000x0/WhatsApp-Image-2020-07-14-at-15.36.30.jpeg?t=1648772700514",
+        "height": 500,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 66292,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100050/Thumbnail-300x300/WhatsApp-Image-2020-07-14-at-15.36.30.jpeg?t=1648772700514",
+        "height": 150,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 10895,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/WhatsApp-Image-2020-07-14-at-15.36.30.jpeg/9f3d909e-6a64-783a-d8f4-4c49876b1183?version=1.0&t=1648772700514",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:25:00Z",
+    "dateModified": "2022-04-01T00:25:00Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "100050",
+    "fileExtension": "jpeg",
+    "id": 100050,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 147965,
+    "taxonomyCategoryBriefs": [],
+    "title": "WhatsApp-Image-2020-07-14-at-15.36.30",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100063/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100063"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100063"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100063"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100063"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100063/Preview-1000x0/WhatsApp-Image-2021-02-04-at-13.05.20.jpeg?t=1648772701273",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 146366,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100063/Thumbnail-300x300/WhatsApp-Image-2021-02-04-at-13.05.20.jpeg?t=1648772701273",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 25485,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/WhatsApp-Image-2021-02-04-at-13.05.20.jpeg/eca2ae6f-4ea7-aa26-0386-ba19238b81ab?version=1.0&t=1648772701273",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:25:01Z",
+    "dateModified": "2022-04-01T00:25:01Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "100063",
+    "fileExtension": "jpeg",
+    "id": 100063,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 363721,
+    "taxonomyCategoryBriefs": [],
+    "title": "WhatsApp-Image-2021-02-04-at-13.05.20",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100075/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100075"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100075"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100075"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/100075"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/100075/Preview-1000x0/WhatsApp-Image-2021-03-11-at-16.14.41.jpeg?t=1648772702135",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 91335,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/100075/Thumbnail-300x300/WhatsApp-Image-2021-03-11-at-16.14.41.jpeg?t=1648772702135",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 16791,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/WhatsApp-Image-2021-03-11-at-16.14.41.jpeg/60985dd4-1a4b-99e9-012a-25004d79e7ae?version=1.0&t=1648772702135",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:25:01Z",
+    "dateModified": "2022-04-01T00:25:02Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "100075",
+    "fileExtension": "jpeg",
+    "id": 100075,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 225255,
+    "taxonomyCategoryBriefs": [],
+    "title": "WhatsApp-Image-2021-03-11-at-16.14.41",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99782/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99782"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99782"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99782"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99782"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99782/Preview-1000x0/001_Bannersite.png?t=1648772678746",
+        "height": 625,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 392030,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99782/Thumbnail-300x300/001_Bannersite.png?t=1648772678746",
+        "height": 188,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 54903,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/001_Bannersite.png/fb9195f3-79d1-0e33-728b-61d428b95394?version=1.0&t=1648772678746",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:23Z",
+    "dateModified": "2022-04-01T00:24:38Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99782",
+    "fileExtension": "png",
+    "id": 99782,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 648522,
+    "taxonomyCategoryBriefs": [],
+    "title": "001_Bannersite",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99793/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99793"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99793"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99793"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99793"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99793/Preview-1000x0/banner_diario_do_poder.png?t=1648772680777",
+        "height": 410,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 200263,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99793/Thumbnail-300x300/banner_diario_do_poder.png?t=1648772680777",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 49750,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/banner_diario_do_poder.png/b877f405-f98f-b2c5-7c1a-698042286f0e?version=1.0&t=1648772680777",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:40Z",
+    "dateModified": "2022-04-01T00:24:40Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99793",
+    "fileExtension": "png",
+    "id": 99793,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 212690,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_diario_do_poder",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99804/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99804"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99804"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99804"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99804"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99804/Preview-1000x0/banner_fake_news_previsao_da_vacinacao-1920x1023.png?t=1648772681934",
+        "height": 533,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 332974,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99804/Thumbnail-300x300/banner_fake_news_previsao_da_vacinacao-1920x1023.png?t=1648772681934",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 42654,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/banner_fake_news_previsao_da_vacinacao-1920x1023.png/5583a2c8-4dcc-bb62-8a6c-f97eba231f5c?version=1.0&t=1648772681934",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:41Z",
+    "dateModified": "2022-04-01T00:24:41Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99804",
+    "fileExtension": "png",
+    "id": 99804,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 962202,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_fake_news_previsao_da_vacinacao-1920x1023",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99816/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99816"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99816"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99816"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99816"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99816/Preview-1000x0/banner_voluntariado_drive_thru.png?t=1648772682912",
+        "height": 410,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 219047,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99816/Thumbnail-300x300/banner_voluntariado_drive_thru.png?t=1648772682912",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 49559,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/banner_voluntariado_drive_thru.png/81d02620-7499-e2c6-228b-e72e4916f778?version=1.0&t=1648772682912",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:42Z",
+    "dateModified": "2022-04-01T00:24:42Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99816",
+    "fileExtension": "png",
+    "id": 99816,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 238727,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_voluntariado_drive_thru",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99829/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99829"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99829"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99829"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99829"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99829/Preview-1000x0/Banner-fake-1104.jpeg?t=1648772683866",
+        "height": 1280,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 139742,
+        "width": 720
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99829/Thumbnail-300x300/Banner-fake-1104.jpeg?t=1648772683866",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 11929,
+        "width": 169
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/Banner-fake-1104.jpeg/b9382e4c-5b18-f4e5-bafe-3671cd6cc3de?version=1.0&t=1648772683866",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:43Z",
+    "dateModified": "2022-04-01T00:24:43Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99829",
+    "fileExtension": "jpeg",
+    "id": 99829,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 214892,
+    "taxonomyCategoryBriefs": [],
+    "title": "Banner-fake-1104",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99841/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99841"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99841"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99841"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99841"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99841/Preview-1000x0/card_fake_news-1-1536x1536.png?t=1648772684582",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 402200,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99841/Thumbnail-300x300/card_fake_news-1-1536x1536.png?t=1648772684582",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 63766,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/card_fake_news-1-1536x1536.png/7906dafa-3cd0-fc2d-ec0f-c8c237f13311?version=1.0&t=1648772684582",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:44Z",
+    "dateModified": "2022-04-01T00:24:44Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99841",
+    "fileExtension": "png",
+    "id": 99841,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 806492,
+    "taxonomyCategoryBriefs": [],
+    "title": "card_fake_news-1-1536x1536",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99854/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99854"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99854"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99854"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99854"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99854/Preview-1000x0/card_falta_de_oxigenio-1536x1536.png?t=1648772685693",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 725027,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99854/Thumbnail-300x300/card_falta_de_oxigenio-1536x1536.png?t=1648772685693",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 87954,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/card_falta_de_oxigenio-1536x1536.png/c4d622c5-763b-fe15-bf9e-bad1f1604fb5?version=1.0&t=1648772685693",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:45Z",
+    "dateModified": "2022-04-01T00:24:45Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99854",
+    "fileExtension": "png",
+    "id": 99854,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1224584,
+    "taxonomyCategoryBriefs": [],
+    "title": "card_falta_de_oxigenio-1536x1536",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99867/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99867"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99867"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99867"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99867"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99867/Preview-1000x0/fake_news_fechamento_hrt.png?t=1648772686766",
+        "height": 409,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 299176,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99867/Thumbnail-300x300/fake_news_fechamento_hrt.png?t=1648772686766",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 67513,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fake_news_fechamento_hrt.png/eb4c3eed-6fbe-000c-bbea-0944e7054164?version=1.0&t=1648772686766",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:46Z",
+    "dateModified": "2022-04-01T00:24:46Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99867",
+    "fileExtension": "png",
+    "id": 99867,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 248029,
+    "taxonomyCategoryBriefs": [],
+    "title": "fake_news_fechamento_hrt",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99879/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99879"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99879"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99879"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99879"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99879/Preview-1000x0/fake_news_vacinacao_de_influenza-2.png?t=1648772687604",
+        "height": 900,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 831013,
+        "width": 900
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99879/Thumbnail-300x300/fake_news_vacinacao_de_influenza-2.png?t=1648772687604",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 146345,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fake_news_vacinacao_de_influenza-2.png/3089929c-58aa-c9e6-f691-79cbd21d2fc1?version=1.0&t=1648772687604",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:47Z",
+    "dateModified": "2022-04-01T00:24:47Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99879",
+    "fileExtension": "png",
+    "id": 99879,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 878414,
+    "taxonomyCategoryBriefs": [],
+    "title": "fake_news_vacinacao_de_influenza-2",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99893/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99893"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99893"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99893"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99893"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99893/Preview-1000x0/Fake-banner.jpg?t=1648772688711",
+        "height": 420,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 52367,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99893/Thumbnail-300x300/Fake-banner.jpg?t=1648772688711",
+        "height": 168,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 12454,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/Fake-banner.jpg/c9ba45a1-e079-f6bb-a160-c0860f8fbe65?version=1.0&t=1648772688711",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:48Z",
+    "dateModified": "2022-04-01T00:24:48Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99893",
+    "fileExtension": "jpg",
+    "id": 99893,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 248337,
+    "taxonomyCategoryBriefs": [],
+    "title": "Fake-banner",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99905/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99905"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99905"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99905"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99905"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99905/Preview-1000x0/fake-feed-12-03-1536x1536.jpg?t=1648772689448",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 113204,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99905/Thumbnail-300x300/fake-feed-12-03-1536x1536.jpg?t=1648772689448",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 19967,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fake-feed-12-03-1536x1536.jpg/6f6240e0-429b-c82e-26e6-65ab11165967?version=1.0&t=1648772689448",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:49Z",
+    "dateModified": "2022-04-01T00:24:49Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99905",
+    "fileExtension": "jpg",
+    "id": 99905,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 280005,
+    "taxonomyCategoryBriefs": [],
+    "title": "fake-feed-12-03-1536x1536",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99919/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99919"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99919"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99919"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99919"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99919/Preview-1000x0/FAKE-HRAN-1536x1536.jpg?t=1648772690322",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 124359,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99919/Thumbnail-300x300/FAKE-HRAN-1536x1536.jpg?t=1648772690322",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 18743,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/FAKE-HRAN-1536x1536.jpg/7ed12ac8-8660-7d0e-49ff-00a1d42f2627?version=1.0&t=1648772690322",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:50Z",
+    "dateModified": "2022-04-01T00:24:50Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99919",
+    "fileExtension": "jpg",
+    "id": 99919,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 333661,
+    "taxonomyCategoryBriefs": [],
+    "title": "FAKE-HRAN-1536x1536",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99932/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99932"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99932"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99932"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99932"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99932/Preview-1000x0/fakenesses.jpeg?t=1648772691465",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 132252,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99932/Thumbnail-300x300/fakenesses.jpeg?t=1648772691465",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 22156,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fakenesses.jpeg/fece18af-85c4-10d5-d3d7-1afa7cd509e5?version=1.0&t=1648772691465",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:51Z",
+    "dateModified": "2022-04-01T00:24:51Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99932",
+    "fileExtension": "jpeg",
+    "id": 99932,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 313670,
+    "taxonomyCategoryBriefs": [],
+    "title": "fakenesses",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99946/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99946"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99946"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99946"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99946"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99946/Preview-1000x0/fakenesses-768x768-1.jpeg?t=1648772692429",
+        "height": 768,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 86122,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99946/Thumbnail-300x300/fakenesses-768x768-1.jpeg?t=1648772692429",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 16623,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fakenesses-768x768-1.jpeg/2abf8a5f-3cb8-5169-95fd-609b6ba5e49b?version=1.0&t=1648772692429",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:52Z",
+    "dateModified": "2022-04-01T00:24:52Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99946",
+    "fileExtension": "jpeg",
+    "id": 99946,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 447414,
+    "taxonomyCategoryBriefs": [],
+    "title": "fakenesses-768x768-1",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99964/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99964"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99964"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99964"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99964"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99964/Preview-1000x0/fato-e-fake-df-1920x960.jpg?t=1648772694503",
+        "height": 500,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 99650,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99964/Thumbnail-300x300/fato-e-fake-df-1920x960.jpg?t=1648772694503",
+        "height": 150,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 14277,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fato-e-fake-df-1920x960.jpg/67d6ac74-7ebe-c10d-ecfe-06c9103dfc8a?version=1.0&t=1648772694503",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:54Z",
+    "dateModified": "2022-04-01T00:24:54Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99964",
+    "fileExtension": "jpg",
+    "id": 99964,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 290030,
+    "taxonomyCategoryBriefs": [],
+    "title": "fato-e-fake-df-1920x960",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99975/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99975"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99975"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99975"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99975"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99975/Preview-1000x0/fato-fake-meningite.jpg?t=1648772695219",
+        "height": 420,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 55757,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99975/Thumbnail-300x300/fato-fake-meningite.jpg?t=1648772695219",
+        "height": 168,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 12803,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fato-fake-meningite.jpg/bd6b081d-50b7-8791-12a5-5a427d985361?version=1.0&t=1648772695219",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:55Z",
+    "dateModified": "2022-04-01T00:24:55Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "99975",
+    "fileExtension": "jpg",
+    "id": 99975,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 274552,
+    "taxonomyCategoryBriefs": [],
+    "title": "fato-fake-meningite",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99990/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99990"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99990"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99990"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/99990"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/99990/Preview-1000x0/fazekaov4-1536x1536.png?t=1648772696388",
+        "height": 1000,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 1530401,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/99990/Thumbnail-300x300/fazekaov4-1536x1536.png?t=1648772696388",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 179963,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/99707/fazekaov4-1536x1536.png/b9f2198b-2120-7d4b-ea9c-ba60a475c188?version=1.0&t=1648772696388",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-04-01T00:24:56Z",
+    "dateModified": "2022-04-01T00:24:56Z",
+    "description": "",
+    "documentFolderId": 99707,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "99990",
+    "fileExtension": "png",
+    "id": 99990,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2389604,
+    "taxonomyCategoryBriefs": [],
+    "title": "fazekaov4-1536x1536",
+    "source_folder": {
+      "id": 99707,
+      "name": "Saúde sem fake news"
+    }
+  }
+]

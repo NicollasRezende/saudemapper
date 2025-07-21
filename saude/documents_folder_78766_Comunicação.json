@@ -1,0 +1,1281 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3904311/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3904311"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3904311"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3904311"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3904311"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Informe_Epidemiologico_em_Saude_do_Trabalhador___AT_2024.pdf/e1b5aed7-08e9-0f4a-a9ab-4963cd5f324c?version=1.0&t=1722355951421",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-30T16:12:28Z",
+    "dateModified": "2024-07-30T16:12:31Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3904311",
+    "fileExtension": "pdf",
+    "id": 3904311,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7813278,
+    "taxonomyCategoryBriefs": [],
+    "title": "Informe_Epidemiologico_em_Saude_do_Trabalhador___AT_2024.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3907886/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3907886"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3907886"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3907886"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3907886"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Plano_de_Acao_2024___SESDF.pdf/21e6a19b-74b0-9e5e-3730-7bb205ef03a5?version=1.0&t=1722014868679",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-26T17:27:46Z",
+    "dateModified": "2024-07-26T17:27:48Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3907886",
+    "fileExtension": "pdf",
+    "id": 3907886,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2500361,
+    "taxonomyCategoryBriefs": [],
+    "title": "Plano_de_Acao_2024___SESDF.pdf.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909374/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909374"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909374"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909374"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909374"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/PLANILHA+NOMEA%C3%87%C3%95ES+-+SITE+2024+ATUALIZADA.pdf/758d7f76-9cec-aa6f-fdb9-c5c2fd1f5e20?version=1.0&t=1721409682032",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-19T17:21:15Z",
+    "dateModified": "2024-07-19T17:21:22Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3909374",
+    "fileExtension": "pdf",
+    "id": 3909374,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 43302,
+    "taxonomyCategoryBriefs": [],
+    "title": "PLANILHA NOMEAÇÕES - SITE 2024 ATUALIZADA.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909912/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909912"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909912"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909912"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909912"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Copia_de_Relatorio_Anual_2023__4_.pdf/65c700c2-d4df-8bdf-4008-7c52caefcd9a?version=1.0&t=1721926849924",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-25T17:00:49Z",
+    "dateModified": "2024-07-25T17:00:49Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3909912",
+    "fileExtension": "pdf",
+    "id": 3909912,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 18331614,
+    "taxonomyCategoryBriefs": [],
+    "title": "Copia_de_Relatorio_Anual_2023__4_.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909954/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909954"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909954"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909954"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909954"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Copia_de_Relatorio_Ouvidoria_3__TRI__SESDF.pdf/98ebd5cf-f3fd-26c2-11d8-7537ef74972c?version=1.0&t=1721927630708",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-25T17:13:50Z",
+    "dateModified": "2024-07-25T17:13:50Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3909954",
+    "fileExtension": "pdf",
+    "id": 3909954,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 5926585,
+    "taxonomyCategoryBriefs": [],
+    "title": "Copia_de_Relatorio_Ouvidoria_3__TRI__SESDF.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909964/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909964"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909964"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909964"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909964"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Relatorio_Anual_2023__2_.pdf/12559ed7-0015-9109-5519-9ee03758f987?version=1.0&t=1721927754611",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-25T17:15:54Z",
+    "dateModified": "2024-07-25T17:15:54Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3909964",
+    "fileExtension": "pdf",
+    "id": 3909964,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 18384270,
+    "taxonomyCategoryBriefs": [],
+    "title": "Relatorio_Anual_2023__2_.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909974/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909974"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909974"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909974"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3909974"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Relatorio_2__tri2024___Ouvidoria_HAB_corrigido.pdf/ea9e3cf9-752a-4f08-a508-1737defad687?version=1.0&t=1721927912226",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-07-25T17:18:30Z",
+    "dateModified": "2024-07-25T17:18:32Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "3909974",
+    "fileExtension": "pdf",
+    "id": 3909974,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1546423,
+    "taxonomyCategoryBriefs": [],
+    "title": "Relatorio_2__tri2024___Ouvidoria_HAB_corrigido.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965066/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965066"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965066"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965066"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965066"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965066/Preview-1000x0/MPOX___DIAGNOSTICO_DIFERENCIAL_.png?t=1725557181764",
+        "height": 1415,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 872268,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965066/Thumbnail-300x300/MPOX___DIAGNOSTICO_DIFERENCIAL_.png?t=1725557181764",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 62036,
+        "width": 212
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/MPOX___DIAGNOSTICO_DIFERENCIAL_.png/8abe7bd3-4fd9-7f7f-f38a-6082de28265b?version=1.0&t=1725557181764",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T17:26:21Z",
+    "dateModified": "2024-09-05T17:26:21Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "3965066",
+    "fileExtension": "png",
+    "id": 3965066,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1800162,
+    "taxonomyCategoryBriefs": [],
+    "title": "MPOX___DIAGNOSTICO_DIFERENCIAL_.png",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965214/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965214"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965214"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965214"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965214"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965214/Preview-1000x0/Foto+Paulo+H.+CarvalhoAg%C3%AAncia+Bras%C3%ADlia.jpg?t=1725561498284",
+        "height": 664,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 94183,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965214/Thumbnail-300x300/Foto+Paulo+H.+CarvalhoAg%C3%AAncia+Bras%C3%ADlia.jpg?t=1725561498284",
+        "height": 199,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 14204,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/Foto+Paulo+H.+CarvalhoAg%C3%AAncia+Bras%C3%ADlia.jpg/9a58bd49-c750-c143-987d-05cc1e48749b?version=1.0&t=1725561498284",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T18:38:14Z",
+    "dateModified": "2024-09-05T18:38:18Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "3965214",
+    "fileExtension": "jpg",
+    "id": 3965214,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 6330211,
+    "taxonomyCategoryBriefs": [],
+    "title": "Foto Paulo H. CarvalhoAgência Brasília.jpg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965225/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965225"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965225"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965225"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965225"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965225/Preview-1000x0/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia.jpg?t=1725561546119",
+        "height": 667,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 36607,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965225/Thumbnail-300x300/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia.jpg?t=1725561546119",
+        "height": 200,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 6738,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia.jpg/d2d1ccb7-ae52-477c-27fd-e5ed8bc87355?version=1.0&t=1725561546119",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T18:39:02Z",
+    "dateModified": "2024-09-05T18:39:06Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "3965225",
+    "fileExtension": "jpg",
+    "id": 3965225,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2577910,
+    "taxonomyCategoryBriefs": [],
+    "title": "Foto Tony Oliveira Agência Brasília.jpg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965236/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965236"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965236"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965236"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965236"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965236/Preview-1000x0/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia+%281%29.jpg?t=1725561703861",
+        "height": 667,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 36607,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965236/Thumbnail-300x300/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia+%281%29.jpg?t=1725561703861",
+        "height": 200,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 6738,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/Foto+Tony+Oliveira+Ag%C3%AAncia+Bras%C3%ADlia+%281%29.jpg/3063322e-0397-4b3d-c99a-61e4c72bd960?version=1.0&t=1725561703861",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T18:41:38Z",
+    "dateModified": "2024-09-05T18:41:43Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "3965236",
+    "fileExtension": "jpg",
+    "id": 3965236,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2577910,
+    "taxonomyCategoryBriefs": [],
+    "title": "Foto Tony Oliveira Agência Brasília (1).jpg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965247/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965247"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965247"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965247"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965247"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965247/Preview-1000x0/e735fd1d-63f6-45da-a90c-ede780c7dcb3.jpeg?t=1725562103895",
+        "height": 666,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 45941,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965247/Thumbnail-300x300/e735fd1d-63f6-45da-a90c-ede780c7dcb3.jpeg?t=1725562103895",
+        "height": 200,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9048,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/e735fd1d-63f6-45da-a90c-ede780c7dcb3.jpeg/540ba6e0-8e88-ae1f-2447-46b44deaa4bc?version=1.0&t=1725562103895",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T18:48:22Z",
+    "dateModified": "2024-09-05T18:48:23Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "3965247",
+    "fileExtension": "jpeg",
+    "id": 3965247,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 179626,
+    "taxonomyCategoryBriefs": [],
+    "title": "e735fd1d-63f6-45da-a90c-ede780c7dcb3.jpeg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965273/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965273"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965273"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965273"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3965273"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3965273/Preview-1000x0/Algoritmo+mpox+atualizado.jpg?t=1725562391268",
+        "height": 683,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 89371,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3965273/Thumbnail-300x300/Algoritmo+mpox+atualizado.jpg?t=1725562391268",
+        "height": 205,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 11378,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/Algoritmo+mpox+atualizado.jpg/d462bd8f-c8fd-0f21-fea9-34bfbcb67f4c?version=1.0&t=1725562391268",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-05T18:53:11Z",
+    "dateModified": "2024-09-05T18:53:11Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "3965273",
+    "fileExtension": "jpg",
+    "id": 3965273,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 933153,
+    "taxonomyCategoryBriefs": [],
+    "title": "Algoritmo mpox atualizado.jpg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3968460/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3968460"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3968460"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3968460"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/3968460"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/3968460/Preview-1000x0/banner_site_mpox-NEW.png?t=1726500211000",
+        "height": 1179,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 1024562,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/3968460/Thumbnail-300x300/banner_site_mpox-NEW.png?t=1726500211000",
+        "height": 300,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 96802,
+        "width": 254
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/banner_site_mpox-NEW.png/24b88ce1-7ff9-906e-3f1a-d8ef6537b796?version=1.0&t=1726500211000",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-09-16T15:23:29Z",
+    "dateModified": "2024-09-16T15:23:31Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "3968460",
+    "fileExtension": "png",
+    "id": 3968460,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 3755532,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_site_mpox-NEW.png",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4029078/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4029078"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4029078"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4029078"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4029078"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/4029078/Preview-1000x0/informe+mpox%2C+7-10-24.jpg?t=1728409386744",
+        "height": 419,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 43369,
+        "width": 764
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/4029078/Thumbnail-300x300/informe+mpox%2C+7-10-24.jpg?t=1728409386744",
+        "height": 165,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9803,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/78766/informe+mpox%2C+7-10-24.jpg/23463435-8c23-9d3b-a877-bb8235049817?version=1.0&t=1728409386744",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2024-10-08T17:43:03Z",
+    "dateModified": "2024-10-08T17:43:06Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "4029078",
+    "fileExtension": "jpg",
+    "id": 4029078,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 66783,
+    "taxonomyCategoryBriefs": [],
+    "title": "informe mpox, 7-10-24.jpg",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439727/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439727"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439727"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439727"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439727"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/LEPTOSPIROSE___GUIA_DIAGNOSTICO__1_.pdf/79c27b8b-1cae-aecb-9822-3778146ef609?version=1.0&t=1751991278196",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-08T16:14:37Z",
+    "dateModified": "2025-07-08T16:14:38Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4439727",
+    "fileExtension": "pdf",
+    "id": 4439727,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1532566,
+    "taxonomyCategoryBriefs": [],
+    "title": "LEPTOSPIROSE___GUIA_DIAGNOSTICO__1_.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439737/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439737"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439737"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439737"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439737"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/ORIENTACOES_PARA_PACIENTE.pdf/fa265ed3-e2e2-310d-d81f-5591972a1b4c?version=1.0&t=1751991354715",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-08T16:15:54Z",
+    "dateModified": "2025-07-08T16:15:54Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4439737",
+    "fileExtension": "pdf",
+    "id": 4439737,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1998007,
+    "taxonomyCategoryBriefs": [],
+    "title": "ORIENTACOES_PARA_PACIENTE.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439767/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439767"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439767"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439767"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439767"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/Relatorio_Padronizado___Doenca_Falciforme.pdf/251ed01f-6ddd-eb0c-5fd9-86bbe3827baf?version=1.0&t=1751996325456",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-08T17:38:42Z",
+    "dateModified": "2025-07-08T17:38:45Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4439767",
+    "fileExtension": "pdf",
+    "id": 4439767,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 786598,
+    "taxonomyCategoryBriefs": [],
+    "title": "Relatorio_Padronizado___Doenca_Falciforme.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439786/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439786"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439786"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439786"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439786"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/78766/BOLETIM_HEPATITES_2025__Final.pdf/9b20c26f-f641-ca42-3575-a0f2885f254f?version=1.0&t=1751997952436",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-08T18:05:49Z",
+    "dateModified": "2025-07-08T18:05:52Z",
+    "description": "",
+    "documentFolderId": 78766,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4439786",
+    "fileExtension": "pdf",
+    "id": 4439786,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 2540373,
+    "taxonomyCategoryBriefs": [],
+    "title": "BOLETIM_HEPATITES_2025__Final.pdf",
+    "source_folder": {
+      "id": 78766,
+      "name": "Comunicação"
+    }
+  }
+]

@@ -1,0 +1,1147 @@
+2025-07-21 13:14:36,338 - INFO - 🔐 Iniciando autenticação abrangente...
+2025-07-21 13:14:36,339 - INFO - 🔑 Tentando Basic Auth...
+2025-07-21 13:14:36,810 - INFO - ✅ Basic Auth sucesso - Usuário: nicollas.pereira
+2025-07-21 13:14:36,811 - INFO - ✅ Autenticação Basic Auth funcionou
+2025-07-21 13:14:36,811 - INFO - 📊 Iniciando coleta de conteúdos estruturados...
+2025-07-21 13:14:39,148 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:14:39,869 - INFO - 📈 conteúdos estruturados: 8283 registros em 415 páginas
+2025-07-21 13:14:39,869 - INFO - 📄 Página 1/415: 20 itens coletados
+2025-07-21 13:14:44,309 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:14:44,959 - INFO - 📄 Página 2/415: 20 itens coletados
+2025-07-21 13:14:49,172 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:14:49,761 - INFO - 📄 Página 3/415: 20 itens coletados
+2025-07-21 13:14:55,747 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:14:56,735 - INFO - 📄 Página 4/415: 20 itens coletados
+2025-07-21 13:15:02,549 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:03,663 - INFO - 📄 Página 5/415: 20 itens coletados
+2025-07-21 13:15:09,490 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:10,353 - INFO - 📄 Página 6/415: 20 itens coletados
+2025-07-21 13:15:14,952 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:15,680 - INFO - 📄 Página 7/415: 20 itens coletados
+2025-07-21 13:15:20,013 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:21,250 - INFO - 📄 Página 8/415: 20 itens coletados
+2025-07-21 13:15:24,836 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:25,612 - INFO - 📄 Página 9/415: 20 itens coletados
+2025-07-21 13:15:29,894 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:30,756 - INFO - 📄 Página 10/415: 20 itens coletados
+2025-07-21 13:15:34,502 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:35,742 - INFO - 📄 Página 11/415: 20 itens coletados
+2025-07-21 13:15:39,289 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:40,035 - INFO - 📄 Página 12/415: 20 itens coletados
+2025-07-21 13:15:44,799 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:45,614 - INFO - 📄 Página 13/415: 20 itens coletados
+2025-07-21 13:15:49,433 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:50,416 - INFO - 📄 Página 14/415: 20 itens coletados
+2025-07-21 13:15:54,381 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:15:55,855 - INFO - 📄 Página 15/415: 20 itens coletados
+2025-07-21 13:16:00,496 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:02,006 - INFO - 📄 Página 16/415: 20 itens coletados
+2025-07-21 13:16:06,541 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:07,782 - INFO - 📄 Página 17/415: 20 itens coletados
+2025-07-21 13:16:11,828 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:13,317 - INFO - 📄 Página 18/415: 20 itens coletados
+2025-07-21 13:16:20,068 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:20,988 - INFO - 📄 Página 19/415: 20 itens coletados
+2025-07-21 13:16:26,763 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:27,797 - INFO - 📄 Página 20/415: 20 itens coletados
+2025-07-21 13:16:33,933 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:35,339 - INFO - 📄 Página 21/415: 20 itens coletados
+2025-07-21 13:16:43,444 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:44,653 - INFO - 📄 Página 22/415: 20 itens coletados
+2025-07-21 13:16:49,359 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:51,175 - INFO - 📄 Página 23/415: 20 itens coletados
+2025-07-21 13:16:57,166 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:16:58,355 - INFO - 📄 Página 24/415: 20 itens coletados
+2025-07-21 13:17:02,333 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:03,588 - INFO - 📄 Página 25/415: 20 itens coletados
+2025-07-21 13:17:07,228 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:08,673 - INFO - 📄 Página 26/415: 20 itens coletados
+2025-07-21 13:17:14,819 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:16,108 - INFO - 📄 Página 27/415: 20 itens coletados
+2025-07-21 13:17:20,283 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:21,448 - INFO - 📄 Página 28/415: 20 itens coletados
+2025-07-21 13:17:26,289 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:28,010 - INFO - 📄 Página 29/415: 20 itens coletados
+2025-07-21 13:17:32,839 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:34,348 - INFO - 📄 Página 30/415: 20 itens coletados
+2025-07-21 13:17:38,729 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:39,932 - INFO - 📄 Página 31/415: 20 itens coletados
+2025-07-21 13:17:44,367 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:46,363 - INFO - 📄 Página 32/415: 20 itens coletados
+2025-07-21 13:17:50,526 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:52,625 - INFO - 📄 Página 33/415: 20 itens coletados
+2025-07-21 13:17:57,425 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:17:58,991 - INFO - 📄 Página 34/415: 20 itens coletados
+2025-07-21 13:18:03,496 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:04,944 - INFO - 📄 Página 35/415: 20 itens coletados
+2025-07-21 13:18:10,232 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:12,716 - INFO - 📄 Página 36/415: 20 itens coletados
+2025-07-21 13:18:16,952 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:18,235 - INFO - 📄 Página 37/415: 20 itens coletados
+2025-07-21 13:18:22,505 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:24,077 - INFO - 📄 Página 38/415: 20 itens coletados
+2025-07-21 13:18:28,142 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:29,697 - INFO - 📄 Página 39/415: 20 itens coletados
+2025-07-21 13:18:34,347 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:35,956 - INFO - 📄 Página 40/415: 20 itens coletados
+2025-07-21 13:18:40,014 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:41,952 - INFO - 📄 Página 41/415: 20 itens coletados
+2025-07-21 13:18:45,921 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:47,448 - INFO - 📄 Página 42/415: 20 itens coletados
+2025-07-21 13:18:52,436 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:18:54,352 - INFO - 📄 Página 43/415: 20 itens coletados
+2025-07-21 13:18:59,278 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:00,612 - INFO - 📄 Página 44/415: 20 itens coletados
+2025-07-21 13:19:04,532 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:06,271 - INFO - 📄 Página 45/415: 20 itens coletados
+2025-07-21 13:19:09,918 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:11,588 - INFO - 📄 Página 46/415: 20 itens coletados
+2025-07-21 13:19:16,107 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:17,860 - INFO - 📄 Página 47/415: 20 itens coletados
+2025-07-21 13:19:22,902 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:24,258 - INFO - 📄 Página 48/415: 20 itens coletados
+2025-07-21 13:19:28,173 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:29,728 - INFO - 📄 Página 49/415: 20 itens coletados
+2025-07-21 13:19:33,411 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:35,461 - INFO - 📄 Página 50/415: 20 itens coletados
+2025-07-21 13:19:39,213 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:40,847 - INFO - 📄 Página 51/415: 20 itens coletados
+2025-07-21 13:19:44,840 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:46,684 - INFO - 📄 Página 52/415: 20 itens coletados
+2025-07-21 13:19:50,239 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:52,551 - INFO - 📄 Página 53/415: 20 itens coletados
+2025-07-21 13:19:55,976 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:19:57,796 - INFO - 📄 Página 54/415: 20 itens coletados
+2025-07-21 13:20:01,576 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:03,611 - INFO - 📄 Página 55/415: 20 itens coletados
+2025-07-21 13:20:07,499 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:09,221 - INFO - 📄 Página 56/415: 20 itens coletados
+2025-07-21 13:20:13,661 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:15,888 - INFO - 📄 Página 57/415: 20 itens coletados
+2025-07-21 13:20:19,717 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:21,886 - INFO - 📄 Página 58/415: 20 itens coletados
+2025-07-21 13:20:25,514 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:27,721 - INFO - 📄 Página 59/415: 20 itens coletados
+2025-07-21 13:20:33,027 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:35,548 - INFO - 📄 Página 60/415: 20 itens coletados
+2025-07-21 13:20:39,246 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:41,074 - INFO - 📄 Página 61/415: 20 itens coletados
+2025-07-21 13:20:44,692 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:46,210 - INFO - 📄 Página 62/415: 20 itens coletados
+2025-07-21 13:20:49,896 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:51,855 - INFO - 📄 Página 63/415: 20 itens coletados
+2025-07-21 13:20:55,368 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:20:57,116 - INFO - 📄 Página 64/415: 20 itens coletados
+2025-07-21 13:21:02,511 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:05,483 - INFO - 📄 Página 65/415: 20 itens coletados
+2025-07-21 13:21:10,576 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:13,017 - INFO - 📄 Página 66/415: 20 itens coletados
+2025-07-21 13:21:17,846 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:20,266 - INFO - 📄 Página 67/415: 20 itens coletados
+2025-07-21 13:21:24,940 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:26,874 - INFO - 📄 Página 68/415: 20 itens coletados
+2025-07-21 13:21:30,678 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:33,047 - INFO - 📄 Página 69/415: 20 itens coletados
+2025-07-21 13:21:36,730 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:38,627 - INFO - 📄 Página 70/415: 20 itens coletados
+2025-07-21 13:21:43,828 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:45,929 - INFO - 📄 Página 71/415: 20 itens coletados
+2025-07-21 13:21:49,639 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:52,179 - INFO - 📄 Página 72/415: 20 itens coletados
+2025-07-21 13:21:56,210 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:21:58,356 - INFO - 📄 Página 73/415: 20 itens coletados
+2025-07-21 13:22:02,001 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:04,161 - INFO - 📄 Página 74/415: 20 itens coletados
+2025-07-21 13:22:08,134 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:10,576 - INFO - 📄 Página 75/415: 20 itens coletados
+2025-07-21 13:22:14,958 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:16,943 - INFO - 📄 Página 76/415: 20 itens coletados
+2025-07-21 13:22:21,101 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:23,807 - INFO - 📄 Página 77/415: 20 itens coletados
+2025-07-21 13:22:29,510 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:31,572 - INFO - 📄 Página 78/415: 20 itens coletados
+2025-07-21 13:22:37,605 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:39,572 - INFO - 📄 Página 79/415: 20 itens coletados
+2025-07-21 13:22:44,268 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:45,993 - INFO - 📄 Página 80/415: 20 itens coletados
+2025-07-21 13:22:50,506 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:22:53,002 - INFO - 📄 Página 81/415: 20 itens coletados
+2025-07-21 13:22:58,181 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:00,001 - INFO - 📄 Página 82/415: 20 itens coletados
+2025-07-21 13:23:04,656 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:07,281 - INFO - 📄 Página 83/415: 20 itens coletados
+2025-07-21 13:23:11,221 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:13,416 - INFO - 📄 Página 84/415: 20 itens coletados
+2025-07-21 13:23:18,404 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:20,415 - INFO - 📄 Página 85/415: 20 itens coletados
+2025-07-21 13:23:25,473 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:27,499 - INFO - 📄 Página 86/415: 20 itens coletados
+2025-07-21 13:23:32,703 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:35,734 - INFO - 📄 Página 87/415: 20 itens coletados
+2025-07-21 13:23:40,455 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:42,683 - INFO - 📄 Página 88/415: 20 itens coletados
+2025-07-21 13:23:46,170 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:48,031 - INFO - 📄 Página 89/415: 20 itens coletados
+2025-07-21 13:23:51,541 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:54,033 - INFO - 📄 Página 90/415: 20 itens coletados
+2025-07-21 13:23:57,673 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:23:59,491 - INFO - 📄 Página 91/415: 20 itens coletados
+2025-07-21 13:24:03,090 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:05,456 - INFO - 📄 Página 92/415: 20 itens coletados
+2025-07-21 13:24:08,912 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:10,972 - INFO - 📄 Página 93/415: 20 itens coletados
+2025-07-21 13:24:14,721 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:16,920 - INFO - 📄 Página 94/415: 20 itens coletados
+2025-07-21 13:24:20,541 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:22,947 - INFO - 📄 Página 95/415: 20 itens coletados
+2025-07-21 13:24:27,040 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:28,921 - INFO - 📄 Página 96/415: 20 itens coletados
+2025-07-21 13:24:33,071 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:35,426 - INFO - 📄 Página 97/415: 20 itens coletados
+2025-07-21 13:24:39,412 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:41,386 - INFO - 📄 Página 98/415: 20 itens coletados
+2025-07-21 13:24:45,460 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:47,575 - INFO - 📄 Página 99/415: 20 itens coletados
+2025-07-21 13:24:52,486 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:24:54,352 - INFO - 📄 Página 100/415: 20 itens coletados
+2025-07-21 13:24:58,174 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:00,507 - INFO - 📄 Página 101/415: 20 itens coletados
+2025-07-21 13:25:04,839 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:07,227 - INFO - 📄 Página 102/415: 20 itens coletados
+2025-07-21 13:25:11,195 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:13,814 - INFO - 📄 Página 103/415: 20 itens coletados
+2025-07-21 13:25:18,340 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:20,661 - INFO - 📄 Página 104/415: 20 itens coletados
+2025-07-21 13:25:24,949 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:27,034 - INFO - 📄 Página 105/415: 20 itens coletados
+2025-07-21 13:25:31,063 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:33,554 - INFO - 📄 Página 106/415: 20 itens coletados
+2025-07-21 13:25:37,145 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:39,609 - INFO - 📄 Página 107/415: 20 itens coletados
+2025-07-21 13:25:43,037 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:45,469 - INFO - 📄 Página 108/415: 20 itens coletados
+2025-07-21 13:25:48,974 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:50,952 - INFO - 📄 Página 109/415: 20 itens coletados
+2025-07-21 13:25:54,561 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:25:56,984 - INFO - 📄 Página 110/415: 20 itens coletados
+2025-07-21 13:26:00,552 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:02,924 - INFO - 📄 Página 111/415: 20 itens coletados
+2025-07-21 13:26:06,996 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:09,360 - INFO - 📄 Página 112/415: 20 itens coletados
+2025-07-21 13:26:12,728 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:15,153 - INFO - 📄 Página 113/415: 20 itens coletados
+2025-07-21 13:26:18,598 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:20,896 - INFO - 📄 Página 114/415: 20 itens coletados
+2025-07-21 13:26:24,559 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:26,941 - INFO - 📄 Página 115/415: 20 itens coletados
+2025-07-21 13:26:31,126 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:33,605 - INFO - 📄 Página 116/415: 20 itens coletados
+2025-07-21 13:26:37,416 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:39,903 - INFO - 📄 Página 117/415: 20 itens coletados
+2025-07-21 13:26:43,658 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:46,078 - INFO - 📄 Página 118/415: 20 itens coletados
+2025-07-21 13:26:49,625 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:52,293 - INFO - 📄 Página 119/415: 20 itens coletados
+2025-07-21 13:26:55,831 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:26:58,077 - INFO - 📄 Página 120/415: 20 itens coletados
+2025-07-21 13:27:01,638 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:04,225 - INFO - 📄 Página 121/415: 20 itens coletados
+2025-07-21 13:27:07,740 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:10,383 - INFO - 📄 Página 122/415: 20 itens coletados
+2025-07-21 13:27:14,013 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:16,694 - INFO - 📄 Página 123/415: 20 itens coletados
+2025-07-21 13:27:20,220 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:22,570 - INFO - 📄 Página 124/415: 20 itens coletados
+2025-07-21 13:27:27,854 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:30,700 - INFO - 📄 Página 125/415: 20 itens coletados
+2025-07-21 13:27:34,089 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:36,867 - INFO - 📄 Página 126/415: 20 itens coletados
+2025-07-21 13:27:40,144 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:42,673 - INFO - 📄 Página 127/415: 20 itens coletados
+2025-07-21 13:27:46,180 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:48,753 - INFO - 📄 Página 128/415: 20 itens coletados
+2025-07-21 13:27:52,588 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:27:55,217 - INFO - 📄 Página 129/415: 20 itens coletados
+2025-07-21 13:27:58,458 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:01,011 - INFO - 📄 Página 130/415: 20 itens coletados
+2025-07-21 13:28:04,447 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:06,881 - INFO - 📄 Página 131/415: 20 itens coletados
+2025-07-21 13:28:10,342 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:13,036 - INFO - 📄 Página 132/415: 20 itens coletados
+2025-07-21 13:28:16,675 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:19,206 - INFO - 📄 Página 133/415: 20 itens coletados
+2025-07-21 13:28:22,395 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:24,707 - INFO - 📄 Página 134/415: 20 itens coletados
+2025-07-21 13:28:28,221 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:31,199 - INFO - 📄 Página 135/415: 20 itens coletados
+2025-07-21 13:28:34,935 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:37,456 - INFO - 📄 Página 136/415: 20 itens coletados
+2025-07-21 13:28:40,656 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:43,362 - INFO - 📄 Página 137/415: 20 itens coletados
+2025-07-21 13:28:46,973 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:49,199 - INFO - 📄 Página 138/415: 20 itens coletados
+2025-07-21 13:28:52,587 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:28:55,350 - INFO - 📄 Página 139/415: 20 itens coletados
+2025-07-21 13:28:58,600 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:01,326 - INFO - 📄 Página 140/415: 20 itens coletados
+2025-07-21 13:29:04,931 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:07,695 - INFO - 📄 Página 141/415: 20 itens coletados
+2025-07-21 13:29:11,129 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:13,979 - INFO - 📄 Página 142/415: 20 itens coletados
+2025-07-21 13:29:17,422 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:20,462 - INFO - 📄 Página 143/415: 20 itens coletados
+2025-07-21 13:29:23,924 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:26,460 - INFO - 📄 Página 144/415: 20 itens coletados
+2025-07-21 13:29:29,806 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:32,504 - INFO - 📄 Página 145/415: 20 itens coletados
+2025-07-21 13:29:35,960 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:38,397 - INFO - 📄 Página 146/415: 20 itens coletados
+2025-07-21 13:29:41,793 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:44,567 - INFO - 📄 Página 147/415: 20 itens coletados
+2025-07-21 13:29:47,925 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:51,291 - INFO - 📄 Página 148/415: 20 itens coletados
+2025-07-21 13:29:54,627 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:29:56,992 - INFO - 📄 Página 149/415: 20 itens coletados
+2025-07-21 13:30:00,227 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:03,211 - INFO - 📄 Página 150/415: 20 itens coletados
+2025-07-21 13:30:06,795 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:09,696 - INFO - 📄 Página 151/415: 20 itens coletados
+2025-07-21 13:30:13,043 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:16,047 - INFO - 📄 Página 152/415: 20 itens coletados
+2025-07-21 13:30:19,437 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:22,271 - INFO - 📄 Página 153/415: 20 itens coletados
+2025-07-21 13:30:25,797 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:28,757 - INFO - 📄 Página 154/415: 20 itens coletados
+2025-07-21 13:30:32,290 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:35,594 - INFO - 📄 Página 155/415: 20 itens coletados
+2025-07-21 13:30:39,038 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:41,983 - INFO - 📄 Página 156/415: 20 itens coletados
+2025-07-21 13:30:45,213 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:48,385 - INFO - 📄 Página 157/415: 20 itens coletados
+2025-07-21 13:30:52,028 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:30:55,209 - INFO - 📄 Página 158/415: 20 itens coletados
+2025-07-21 13:30:58,435 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:01,325 - INFO - 📄 Página 159/415: 20 itens coletados
+2025-07-21 13:31:05,007 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:08,394 - INFO - 📄 Página 160/415: 20 itens coletados
+2025-07-21 13:31:11,621 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:14,409 - INFO - 📄 Página 161/415: 20 itens coletados
+2025-07-21 13:31:17,658 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:20,746 - INFO - 📄 Página 162/415: 20 itens coletados
+2025-07-21 13:31:24,572 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:27,921 - INFO - 📄 Página 163/415: 20 itens coletados
+2025-07-21 13:31:31,366 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:34,387 - INFO - 📄 Página 164/415: 20 itens coletados
+2025-07-21 13:31:37,593 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:40,701 - INFO - 📄 Página 165/415: 20 itens coletados
+2025-07-21 13:31:44,544 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:47,574 - INFO - 📄 Página 166/415: 20 itens coletados
+2025-07-21 13:31:51,469 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:31:54,736 - INFO - 📄 Página 167/415: 20 itens coletados
+2025-07-21 13:31:58,607 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:02,034 - INFO - 📄 Página 168/415: 20 itens coletados
+2025-07-21 13:32:05,915 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:09,110 - INFO - 📄 Página 169/415: 20 itens coletados
+2025-07-21 13:32:12,405 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:15,572 - INFO - 📄 Página 170/415: 20 itens coletados
+2025-07-21 13:32:19,448 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:22,619 - INFO - 📄 Página 171/415: 20 itens coletados
+2025-07-21 13:32:26,282 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:29,320 - INFO - 📄 Página 172/415: 20 itens coletados
+2025-07-21 13:32:33,967 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:37,639 - INFO - 📄 Página 173/415: 20 itens coletados
+2025-07-21 13:32:44,670 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:48,108 - INFO - 📄 Página 174/415: 20 itens coletados
+2025-07-21 13:32:51,718 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:32:55,026 - INFO - 📄 Página 175/415: 20 itens coletados
+2025-07-21 13:32:58,456 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:01,422 - INFO - 📄 Página 176/415: 20 itens coletados
+2025-07-21 13:33:05,667 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:09,759 - INFO - 📄 Página 177/415: 20 itens coletados
+2025-07-21 13:33:13,876 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:16,963 - INFO - 📄 Página 178/415: 20 itens coletados
+2025-07-21 13:33:20,381 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:23,839 - INFO - 📄 Página 179/415: 20 itens coletados
+2025-07-21 13:33:27,156 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:30,307 - INFO - 📄 Página 180/415: 20 itens coletados
+2025-07-21 13:33:34,186 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:37,558 - INFO - 📄 Página 181/415: 20 itens coletados
+2025-07-21 13:33:41,053 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:44,371 - INFO - 📄 Página 182/415: 20 itens coletados
+2025-07-21 13:33:49,344 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:33:52,785 - INFO - 📄 Página 183/415: 20 itens coletados
+2025-07-21 13:33:57,037 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:00,450 - INFO - 📄 Página 184/415: 20 itens coletados
+2025-07-21 13:34:04,336 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:07,554 - INFO - 📄 Página 185/415: 20 itens coletados
+2025-07-21 13:34:11,132 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:14,904 - INFO - 📄 Página 186/415: 20 itens coletados
+2025-07-21 13:34:20,376 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:23,702 - INFO - 📄 Página 187/415: 20 itens coletados
+2025-07-21 13:34:26,931 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:30,370 - INFO - 📄 Página 188/415: 20 itens coletados
+2025-07-21 13:34:33,793 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:37,178 - INFO - 📄 Página 189/415: 20 itens coletados
+2025-07-21 13:34:40,443 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:43,808 - INFO - 📄 Página 190/415: 20 itens coletados
+2025-07-21 13:34:47,011 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:50,073 - INFO - 📄 Página 191/415: 20 itens coletados
+2025-07-21 13:34:53,595 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:34:57,179 - INFO - 📄 Página 192/415: 20 itens coletados
+2025-07-21 13:35:00,644 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:04,156 - INFO - 📄 Página 193/415: 20 itens coletados
+2025-07-21 13:35:08,353 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:11,784 - INFO - 📄 Página 194/415: 20 itens coletados
+2025-07-21 13:35:15,765 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:19,359 - INFO - 📄 Página 195/415: 20 itens coletados
+2025-07-21 13:35:23,418 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:27,214 - INFO - 📄 Página 196/415: 20 itens coletados
+2025-07-21 13:35:31,334 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:34,932 - INFO - 📄 Página 197/415: 20 itens coletados
+2025-07-21 13:35:39,111 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:43,129 - INFO - 📄 Página 198/415: 20 itens coletados
+2025-07-21 13:35:46,980 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:50,067 - INFO - 📄 Página 199/415: 20 itens coletados
+2025-07-21 13:35:53,778 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:35:57,603 - INFO - 📄 Página 200/415: 20 itens coletados
+2025-07-21 13:36:00,891 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:04,292 - INFO - 📄 Página 201/415: 20 itens coletados
+2025-07-21 13:36:07,745 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:11,236 - INFO - 📄 Página 202/415: 20 itens coletados
+2025-07-21 13:36:14,697 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:17,838 - INFO - 📄 Página 203/415: 20 itens coletados
+2025-07-21 13:36:21,131 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:24,389 - INFO - 📄 Página 204/415: 20 itens coletados
+2025-07-21 13:36:27,886 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:31,128 - INFO - 📄 Página 205/415: 20 itens coletados
+2025-07-21 13:36:34,785 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:38,360 - INFO - 📄 Página 206/415: 20 itens coletados
+2025-07-21 13:36:42,011 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:45,627 - INFO - 📄 Página 207/415: 20 itens coletados
+2025-07-21 13:36:49,130 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:52,729 - INFO - 📄 Página 208/415: 20 itens coletados
+2025-07-21 13:36:56,143 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:36:59,518 - INFO - 📄 Página 209/415: 20 itens coletados
+2025-07-21 13:37:03,375 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:06,924 - INFO - 📄 Página 210/415: 20 itens coletados
+2025-07-21 13:37:10,386 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:13,513 - INFO - 📄 Página 211/415: 20 itens coletados
+2025-07-21 13:37:17,059 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:20,526 - INFO - 📄 Página 212/415: 20 itens coletados
+2025-07-21 13:37:23,933 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:27,167 - INFO - 📄 Página 213/415: 20 itens coletados
+2025-07-21 13:37:30,665 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:33,986 - INFO - 📄 Página 214/415: 20 itens coletados
+2025-07-21 13:37:37,412 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:40,617 - INFO - 📄 Página 215/415: 20 itens coletados
+2025-07-21 13:37:44,241 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:47,353 - INFO - 📄 Página 216/415: 20 itens coletados
+2025-07-21 13:37:50,753 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:37:54,588 - INFO - 📄 Página 217/415: 20 itens coletados
+2025-07-21 13:37:58,290 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:01,707 - INFO - 📄 Página 218/415: 20 itens coletados
+2025-07-21 13:38:05,263 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:08,742 - INFO - 📄 Página 219/415: 20 itens coletados
+2025-07-21 13:38:12,370 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:16,371 - INFO - 📄 Página 220/415: 20 itens coletados
+2025-07-21 13:38:20,013 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:23,611 - INFO - 📄 Página 221/415: 20 itens coletados
+2025-07-21 13:38:27,046 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:30,390 - INFO - 📄 Página 222/415: 20 itens coletados
+2025-07-21 13:38:34,259 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:37,821 - INFO - 📄 Página 223/415: 20 itens coletados
+2025-07-21 13:38:41,573 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:45,138 - INFO - 📄 Página 224/415: 20 itens coletados
+2025-07-21 13:38:49,694 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:38:53,280 - INFO - 📄 Página 225/415: 20 itens coletados
+2025-07-21 13:38:56,965 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:00,546 - INFO - 📄 Página 226/415: 20 itens coletados
+2025-07-21 13:39:04,677 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:08,220 - INFO - 📄 Página 227/415: 20 itens coletados
+2025-07-21 13:39:12,195 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:15,991 - INFO - 📄 Página 228/415: 20 itens coletados
+2025-07-21 13:39:19,740 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:23,223 - INFO - 📄 Página 229/415: 20 itens coletados
+2025-07-21 13:39:26,602 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:30,241 - INFO - 📄 Página 230/415: 20 itens coletados
+2025-07-21 13:39:33,885 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:37,305 - INFO - 📄 Página 231/415: 20 itens coletados
+2025-07-21 13:39:41,251 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:44,774 - INFO - 📄 Página 232/415: 20 itens coletados
+2025-07-21 13:39:48,434 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:51,902 - INFO - 📄 Página 233/415: 20 itens coletados
+2025-07-21 13:39:55,703 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:39:59,359 - INFO - 📄 Página 234/415: 20 itens coletados
+2025-07-21 13:40:02,939 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:06,272 - INFO - 📄 Página 235/415: 20 itens coletados
+2025-07-21 13:40:10,013 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:13,294 - INFO - 📄 Página 236/415: 20 itens coletados
+2025-07-21 13:40:16,766 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:19,776 - INFO - 📄 Página 237/415: 20 itens coletados
+2025-07-21 13:40:23,241 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:26,960 - INFO - 📄 Página 238/415: 20 itens coletados
+2025-07-21 13:40:30,816 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:34,083 - INFO - 📄 Página 239/415: 20 itens coletados
+2025-07-21 13:40:37,892 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:41,518 - INFO - 📄 Página 240/415: 20 itens coletados
+2025-07-21 13:40:45,047 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:48,213 - INFO - 📄 Página 241/415: 20 itens coletados
+2025-07-21 13:40:51,597 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:40:55,197 - INFO - 📄 Página 242/415: 20 itens coletados
+2025-07-21 13:40:58,593 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:01,916 - INFO - 📄 Página 243/415: 20 itens coletados
+2025-07-21 13:41:05,371 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:08,753 - INFO - 📄 Página 244/415: 20 itens coletados
+2025-07-21 13:41:12,013 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:15,753 - INFO - 📄 Página 245/415: 20 itens coletados
+2025-07-21 13:41:19,128 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:22,666 - INFO - 📄 Página 246/415: 20 itens coletados
+2025-07-21 13:41:26,305 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:29,835 - INFO - 📄 Página 247/415: 20 itens coletados
+2025-07-21 13:41:33,200 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:36,664 - INFO - 📄 Página 248/415: 20 itens coletados
+2025-07-21 13:41:40,192 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:43,954 - INFO - 📄 Página 249/415: 20 itens coletados
+2025-07-21 13:41:47,599 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:51,133 - INFO - 📄 Página 250/415: 20 itens coletados
+2025-07-21 13:41:54,530 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:41:57,735 - INFO - 📄 Página 251/415: 20 itens coletados
+2025-07-21 13:42:01,166 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:04,296 - INFO - 📄 Página 252/415: 20 itens coletados
+2025-07-21 13:42:07,686 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:10,962 - INFO - 📄 Página 253/415: 20 itens coletados
+2025-07-21 13:42:14,535 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:18,096 - INFO - 📄 Página 254/415: 20 itens coletados
+2025-07-21 13:42:21,628 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:24,688 - INFO - 📄 Página 255/415: 20 itens coletados
+2025-07-21 13:42:28,643 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:32,280 - INFO - 📄 Página 256/415: 20 itens coletados
+2025-07-21 13:42:35,795 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:39,221 - INFO - 📄 Página 257/415: 20 itens coletados
+2025-07-21 13:42:42,608 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:46,551 - INFO - 📄 Página 258/415: 20 itens coletados
+2025-07-21 13:42:50,391 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:42:53,843 - INFO - 📄 Página 259/415: 20 itens coletados
+2025-07-21 13:42:57,898 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:01,219 - INFO - 📄 Página 260/415: 20 itens coletados
+2025-07-21 13:43:04,756 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:08,346 - INFO - 📄 Página 261/415: 20 itens coletados
+2025-07-21 13:43:12,790 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:16,318 - INFO - 📄 Página 262/415: 20 itens coletados
+2025-07-21 13:43:19,752 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:23,177 - INFO - 📄 Página 263/415: 20 itens coletados
+2025-07-21 13:43:26,563 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:29,597 - INFO - 📄 Página 264/415: 20 itens coletados
+2025-07-21 13:43:33,002 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:36,430 - INFO - 📄 Página 265/415: 20 itens coletados
+2025-07-21 13:43:39,670 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:42,625 - INFO - 📄 Página 266/415: 20 itens coletados
+2025-07-21 13:43:46,113 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:49,916 - INFO - 📄 Página 267/415: 20 itens coletados
+2025-07-21 13:43:54,600 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:43:58,013 - INFO - 📄 Página 268/415: 20 itens coletados
+2025-07-21 13:44:01,368 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:05,202 - INFO - 📄 Página 269/415: 20 itens coletados
+2025-07-21 13:44:08,831 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:11,947 - INFO - 📄 Página 270/415: 20 itens coletados
+2025-07-21 13:44:15,376 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:18,582 - INFO - 📄 Página 271/415: 20 itens coletados
+2025-07-21 13:44:22,844 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:26,099 - INFO - 📄 Página 272/415: 20 itens coletados
+2025-07-21 13:44:30,123 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:33,468 - INFO - 📄 Página 273/415: 20 itens coletados
+2025-07-21 13:44:37,708 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:41,075 - INFO - 📄 Página 274/415: 20 itens coletados
+2025-07-21 13:44:45,221 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:48,790 - INFO - 📄 Página 275/415: 20 itens coletados
+2025-07-21 13:44:52,432 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:44:55,597 - INFO - 📄 Página 276/415: 20 itens coletados
+2025-07-21 13:44:59,230 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:02,682 - INFO - 📄 Página 277/415: 20 itens coletados
+2025-07-21 13:45:07,533 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:11,204 - INFO - 📄 Página 278/415: 20 itens coletados
+2025-07-21 13:45:15,289 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:18,217 - INFO - 📄 Página 279/415: 20 itens coletados
+2025-07-21 13:45:22,209 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:25,632 - INFO - 📄 Página 280/415: 20 itens coletados
+2025-07-21 13:45:29,250 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:32,654 - INFO - 📄 Página 281/415: 20 itens coletados
+2025-07-21 13:45:36,585 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:40,002 - INFO - 📄 Página 282/415: 20 itens coletados
+2025-07-21 13:45:43,317 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:46,973 - INFO - 📄 Página 283/415: 20 itens coletados
+2025-07-21 13:45:50,280 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:45:53,615 - INFO - 📄 Página 284/415: 20 itens coletados
+2025-07-21 13:45:57,331 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:00,715 - INFO - 📄 Página 285/415: 20 itens coletados
+2025-07-21 13:46:04,399 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:07,862 - INFO - 📄 Página 286/415: 20 itens coletados
+2025-07-21 13:46:11,527 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:15,146 - INFO - 📄 Página 287/415: 20 itens coletados
+2025-07-21 13:46:18,944 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:22,108 - INFO - 📄 Página 288/415: 20 itens coletados
+2025-07-21 13:46:30,031 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:33,772 - INFO - 📄 Página 289/415: 20 itens coletados
+2025-07-21 13:46:37,735 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:40,986 - INFO - 📄 Página 290/415: 20 itens coletados
+2025-07-21 13:46:44,477 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:47,794 - INFO - 📄 Página 291/415: 20 itens coletados
+2025-07-21 13:46:51,167 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:46:54,708 - INFO - 📄 Página 292/415: 20 itens coletados
+2025-07-21 13:46:58,326 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:01,844 - INFO - 📄 Página 293/415: 20 itens coletados
+2025-07-21 13:47:05,473 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:08,994 - INFO - 📄 Página 294/415: 20 itens coletados
+2025-07-21 13:47:13,335 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:16,772 - INFO - 📄 Página 295/415: 20 itens coletados
+2025-07-21 13:47:20,349 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:23,824 - INFO - 📄 Página 296/415: 20 itens coletados
+2025-07-21 13:47:27,664 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:30,880 - INFO - 📄 Página 297/415: 20 itens coletados
+2025-07-21 13:47:35,333 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:39,768 - INFO - 📄 Página 298/415: 20 itens coletados
+2025-07-21 13:47:44,124 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:47,714 - INFO - 📄 Página 299/415: 20 itens coletados
+2025-07-21 13:47:51,112 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:47:54,190 - INFO - 📄 Página 300/415: 20 itens coletados
+2025-07-21 13:47:57,576 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:00,958 - INFO - 📄 Página 301/415: 20 itens coletados
+2025-07-21 13:48:04,678 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:08,466 - INFO - 📄 Página 302/415: 20 itens coletados
+2025-07-21 13:48:11,701 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:15,079 - INFO - 📄 Página 303/415: 20 itens coletados
+2025-07-21 13:48:18,548 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:21,810 - INFO - 📄 Página 304/415: 20 itens coletados
+2025-07-21 13:48:25,437 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:28,678 - INFO - 📄 Página 305/415: 20 itens coletados
+2025-07-21 13:48:32,219 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:35,791 - INFO - 📄 Página 306/415: 20 itens coletados
+2025-07-21 13:48:39,031 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:42,669 - INFO - 📄 Página 307/415: 20 itens coletados
+2025-07-21 13:48:46,057 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:49,588 - INFO - 📄 Página 308/415: 20 itens coletados
+2025-07-21 13:48:53,263 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:48:57,139 - INFO - 📄 Página 309/415: 20 itens coletados
+2025-07-21 13:49:00,771 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:04,383 - INFO - 📄 Página 310/415: 20 itens coletados
+2025-07-21 13:49:07,988 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:11,327 - INFO - 📄 Página 311/415: 20 itens coletados
+2025-07-21 13:49:14,814 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:18,219 - INFO - 📄 Página 312/415: 20 itens coletados
+2025-07-21 13:49:22,201 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:25,525 - INFO - 📄 Página 313/415: 20 itens coletados
+2025-07-21 13:49:29,179 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:32,654 - INFO - 📄 Página 314/415: 20 itens coletados
+2025-07-21 13:49:36,012 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:39,580 - INFO - 📄 Página 315/415: 20 itens coletados
+2025-07-21 13:49:43,239 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:46,768 - INFO - 📄 Página 316/415: 20 itens coletados
+2025-07-21 13:49:50,079 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:49:53,262 - INFO - 📄 Página 317/415: 20 itens coletados
+2025-07-21 13:49:56,619 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:00,320 - INFO - 📄 Página 318/415: 20 itens coletados
+2025-07-21 13:50:04,596 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:07,732 - INFO - 📄 Página 319/415: 20 itens coletados
+2025-07-21 13:50:11,174 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:14,627 - INFO - 📄 Página 320/415: 20 itens coletados
+2025-07-21 13:50:17,973 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:21,177 - INFO - 📄 Página 321/415: 20 itens coletados
+2025-07-21 13:50:24,627 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:27,956 - INFO - 📄 Página 322/415: 20 itens coletados
+2025-07-21 13:50:31,683 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:35,370 - INFO - 📄 Página 323/415: 20 itens coletados
+2025-07-21 13:50:38,673 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:42,110 - INFO - 📄 Página 324/415: 20 itens coletados
+2025-07-21 13:50:45,700 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:49,166 - INFO - 📄 Página 325/415: 20 itens coletados
+2025-07-21 13:50:52,662 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:50:55,967 - INFO - 📄 Página 326/415: 20 itens coletados
+2025-07-21 13:50:59,238 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:02,461 - INFO - 📄 Página 327/415: 20 itens coletados
+2025-07-21 13:51:06,248 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:09,428 - INFO - 📄 Página 328/415: 20 itens coletados
+2025-07-21 13:51:12,881 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:16,528 - INFO - 📄 Página 329/415: 20 itens coletados
+2025-07-21 13:51:19,766 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:23,826 - INFO - 📄 Página 330/415: 20 itens coletados
+2025-07-21 13:51:27,475 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:30,826 - INFO - 📄 Página 331/415: 20 itens coletados
+2025-07-21 13:51:34,547 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:37,876 - INFO - 📄 Página 332/415: 20 itens coletados
+2025-07-21 13:51:41,259 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:44,827 - INFO - 📄 Página 333/415: 20 itens coletados
+2025-07-21 13:51:48,711 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:52,176 - INFO - 📄 Página 334/415: 20 itens coletados
+2025-07-21 13:51:55,574 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:51:58,801 - INFO - 📄 Página 335/415: 20 itens coletados
+2025-07-21 13:52:02,208 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:05,412 - INFO - 📄 Página 336/415: 20 itens coletados
+2025-07-21 13:52:09,018 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:12,633 - INFO - 📄 Página 337/415: 20 itens coletados
+2025-07-21 13:52:16,283 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:19,758 - INFO - 📄 Página 338/415: 20 itens coletados
+2025-07-21 13:52:23,598 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:27,055 - INFO - 📄 Página 339/415: 20 itens coletados
+2025-07-21 13:52:30,754 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:34,544 - INFO - 📄 Página 340/415: 20 itens coletados
+2025-07-21 13:52:38,423 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:41,966 - INFO - 📄 Página 341/415: 20 itens coletados
+2025-07-21 13:52:45,290 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:48,723 - INFO - 📄 Página 342/415: 20 itens coletados
+2025-07-21 13:52:51,976 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:52:55,525 - INFO - 📄 Página 343/415: 20 itens coletados
+2025-07-21 13:52:59,014 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:02,285 - INFO - 📄 Página 344/415: 20 itens coletados
+2025-07-21 13:53:06,028 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:09,644 - INFO - 📄 Página 345/415: 20 itens coletados
+2025-07-21 13:53:13,325 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:17,174 - INFO - 📄 Página 346/415: 20 itens coletados
+2025-07-21 13:53:20,668 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:23,980 - INFO - 📄 Página 347/415: 20 itens coletados
+2025-07-21 13:53:27,715 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:31,561 - INFO - 📄 Página 348/415: 20 itens coletados
+2025-07-21 13:53:34,933 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:38,618 - INFO - 📄 Página 349/415: 20 itens coletados
+2025-07-21 13:53:41,813 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:45,182 - INFO - 📄 Página 350/415: 20 itens coletados
+2025-07-21 13:53:48,695 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:51,909 - INFO - 📄 Página 351/415: 20 itens coletados
+2025-07-21 13:53:55,261 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:53:58,985 - INFO - 📄 Página 352/415: 20 itens coletados
+2025-07-21 13:54:02,610 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:05,912 - INFO - 📄 Página 353/415: 20 itens coletados
+2025-07-21 13:54:09,425 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:13,002 - INFO - 📄 Página 354/415: 20 itens coletados
+2025-07-21 13:54:16,885 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:20,196 - INFO - 📄 Página 355/415: 20 itens coletados
+2025-07-21 13:54:23,825 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:27,579 - INFO - 📄 Página 356/415: 20 itens coletados
+2025-07-21 13:54:30,993 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:34,391 - INFO - 📄 Página 357/415: 20 itens coletados
+2025-07-21 13:54:38,187 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:41,803 - INFO - 📄 Página 358/415: 20 itens coletados
+2025-07-21 13:54:45,354 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:49,012 - INFO - 📄 Página 359/415: 20 itens coletados
+2025-07-21 13:54:52,259 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:54:55,436 - INFO - 📄 Página 360/415: 20 itens coletados
+2025-07-21 13:54:58,889 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:02,630 - INFO - 📄 Página 361/415: 20 itens coletados
+2025-07-21 13:55:06,284 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:09,589 - INFO - 📄 Página 362/415: 20 itens coletados
+2025-07-21 13:55:13,954 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:17,354 - INFO - 📄 Página 363/415: 20 itens coletados
+2025-07-21 13:55:20,616 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:23,641 - INFO - 📄 Página 364/415: 20 itens coletados
+2025-07-21 13:55:27,415 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:31,071 - INFO - 📄 Página 365/415: 20 itens coletados
+2025-07-21 13:55:34,749 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:38,178 - INFO - 📄 Página 366/415: 20 itens coletados
+2025-07-21 13:55:41,887 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:45,243 - INFO - 📄 Página 367/415: 20 itens coletados
+2025-07-21 13:55:48,697 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:51,971 - INFO - 📄 Página 368/415: 20 itens coletados
+2025-07-21 13:55:55,750 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:55:59,644 - INFO - 📄 Página 369/415: 20 itens coletados
+2025-07-21 13:56:03,246 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:06,563 - INFO - 📄 Página 370/415: 20 itens coletados
+2025-07-21 13:56:11,686 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:14,829 - INFO - 📄 Página 371/415: 20 itens coletados
+2025-07-21 13:56:18,609 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:22,567 - INFO - 📄 Página 372/415: 20 itens coletados
+2025-07-21 13:56:26,194 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:29,403 - INFO - 📄 Página 373/415: 20 itens coletados
+2025-07-21 13:56:32,895 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:36,580 - INFO - 📄 Página 374/415: 20 itens coletados
+2025-07-21 13:56:39,756 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:43,250 - INFO - 📄 Página 375/415: 20 itens coletados
+2025-07-21 13:56:46,731 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:50,333 - INFO - 📄 Página 376/415: 20 itens coletados
+2025-07-21 13:56:53,654 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:56:57,092 - INFO - 📄 Página 377/415: 20 itens coletados
+2025-07-21 13:57:00,614 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:04,126 - INFO - 📄 Página 378/415: 20 itens coletados
+2025-07-21 13:57:07,476 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:10,678 - INFO - 📄 Página 379/415: 20 itens coletados
+2025-07-21 13:57:14,186 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:17,659 - INFO - 📄 Página 380/415: 20 itens coletados
+2025-07-21 13:57:21,019 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:24,467 - INFO - 📄 Página 381/415: 20 itens coletados
+2025-07-21 13:57:27,794 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:30,924 - INFO - 📄 Página 382/415: 20 itens coletados
+2025-07-21 13:57:34,296 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:37,753 - INFO - 📄 Página 383/415: 20 itens coletados
+2025-07-21 13:57:40,992 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:44,136 - INFO - 📄 Página 384/415: 20 itens coletados
+2025-07-21 13:57:47,879 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:51,392 - INFO - 📄 Página 385/415: 20 itens coletados
+2025-07-21 13:57:55,274 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:57:58,601 - INFO - 📄 Página 386/415: 20 itens coletados
+2025-07-21 13:58:01,965 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:05,530 - INFO - 📄 Página 387/415: 20 itens coletados
+2025-07-21 13:58:08,946 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:12,301 - INFO - 📄 Página 388/415: 20 itens coletados
+2025-07-21 13:58:15,817 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:19,101 - INFO - 📄 Página 389/415: 20 itens coletados
+2025-07-21 13:58:22,883 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:26,206 - INFO - 📄 Página 390/415: 20 itens coletados
+2025-07-21 13:58:30,054 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:33,871 - INFO - 📄 Página 391/415: 20 itens coletados
+2025-07-21 13:58:37,667 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:41,816 - INFO - 📄 Página 392/415: 20 itens coletados
+2025-07-21 13:58:49,309 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:58:52,934 - INFO - 📄 Página 393/415: 20 itens coletados
+2025-07-21 13:58:59,033 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:02,942 - INFO - 📄 Página 394/415: 20 itens coletados
+2025-07-21 13:59:07,171 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:10,680 - INFO - 📄 Página 395/415: 20 itens coletados
+2025-07-21 13:59:14,637 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:18,172 - INFO - 📄 Página 396/415: 20 itens coletados
+2025-07-21 13:59:21,452 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:25,123 - INFO - 📄 Página 397/415: 20 itens coletados
+2025-07-21 13:59:28,504 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:32,020 - INFO - 📄 Página 398/415: 20 itens coletados
+2025-07-21 13:59:35,378 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:38,913 - INFO - 📄 Página 399/415: 20 itens coletados
+2025-07-21 13:59:42,324 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:45,918 - INFO - 📄 Página 400/415: 20 itens coletados
+2025-07-21 13:59:49,276 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:52,831 - INFO - 📄 Página 401/415: 20 itens coletados
+2025-07-21 13:59:56,031 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 13:59:59,252 - INFO - 📄 Página 402/415: 20 itens coletados
+2025-07-21 14:00:03,045 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:06,572 - INFO - 📄 Página 403/415: 20 itens coletados
+2025-07-21 14:00:10,321 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:13,986 - INFO - 📄 Página 404/415: 20 itens coletados
+2025-07-21 14:00:18,100 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:21,802 - INFO - 📄 Página 405/415: 20 itens coletados
+2025-07-21 14:00:25,163 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:28,631 - INFO - 📄 Página 406/415: 20 itens coletados
+2025-07-21 14:00:32,382 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:36,037 - INFO - 📄 Página 407/415: 20 itens coletados
+2025-07-21 14:00:39,730 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:43,363 - INFO - 📄 Página 408/415: 20 itens coletados
+2025-07-21 14:00:46,698 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:50,072 - INFO - 📄 Página 409/415: 20 itens coletados
+2025-07-21 14:00:53,565 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:00:56,996 - INFO - 📄 Página 410/415: 20 itens coletados
+2025-07-21 14:01:00,675 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:04,405 - INFO - 📄 Página 411/415: 20 itens coletados
+2025-07-21 14:01:08,154 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:11,490 - INFO - 📄 Página 412/415: 20 itens coletados
+2025-07-21 14:01:14,830 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:17,988 - INFO - 📄 Página 413/415: 20 itens coletados
+2025-07-21 14:01:21,406 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:24,860 - INFO - 📄 Página 414/415: 20 itens coletados
+2025-07-21 14:01:28,401 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:32,125 - INFO - 📄 Página 415/415: 20 itens coletados
+2025-07-21 14:01:32,125 - INFO - ✅ Coleta de conteúdos estruturados concluída: 8300 registros
+2025-07-21 14:01:33,010 - INFO - 💾 Salvos 8300 conteúdos estruturados em liferay_data/structured_contents.json
+2025-07-21 14:01:33,031 - INFO - 📊 Iniciando coleta de pastas de conteúdo...
+2025-07-21 14:01:36,213 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:36,915 - INFO - 📈 pastas de conteúdo: 28 registros em 3 páginas
+2025-07-21 14:01:36,915 - INFO - 📄 Página 1/3: 10 itens coletados
+2025-07-21 14:01:41,178 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:42,045 - INFO - 📄 Página 2/3: 10 itens coletados
+2025-07-21 14:01:45,842 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:46,489 - INFO - 📄 Página 3/3: 8 itens coletados
+2025-07-21 14:01:46,489 - INFO - ✅ Coleta de pastas de conteúdo concluída: 28 registros
+2025-07-21 14:01:46,492 - INFO - 💾 Salvas 28 pastas de conteúdo em liferay_data/content_folders.json
+2025-07-21 14:01:46,492 - INFO - 📊 Iniciando coleta de páginas do site...
+2025-07-21 14:01:49,777 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:52,491 - INFO - 📈 páginas do site: 1487 registros em 149 páginas
+2025-07-21 14:01:52,491 - INFO - 📄 Página 1/149: 10 itens coletados
+2025-07-21 14:01:56,087 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:01:56,428 - WARNING - ❌ HTTP Error 404 para https://www.saude.df.gov.br/o/headless-delivery/v1.0/sites/37101/site-pages
+2025-07-21 14:01:57,775 - WARNING - ❌ HTTP Error 404 para https://www.saude.df.gov.br/o/headless-delivery/v1.0/sites/37101/site-pages
+2025-07-21 14:02:00,064 - WARNING - ❌ HTTP Error 404 para https://www.saude.df.gov.br/o/headless-delivery/v1.0/sites/37101/site-pages
+2025-07-21 14:02:00,064 - ERROR - ❌ Falha ao obter dados de páginas do site na página 2
+2025-07-21 14:02:00,065 - INFO - ✅ Coleta de páginas do site concluída: 10 registros
+2025-07-21 14:02:00,067 - INFO - 💾 Salvas 10 páginas do site em liferay_data/site_pages.json
+2025-07-21 14:02:00,067 - INFO - 📊 Iniciando coleta de pastas de documentos...
+2025-07-21 14:02:03,480 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:04,131 - INFO - 📈 pastas de documentos: 36 registros em 2 páginas
+2025-07-21 14:02:04,131 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:02:07,361 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:07,786 - INFO - 📄 Página 2/2: 16 itens coletados
+2025-07-21 14:02:07,787 - INFO - ✅ Coleta de pastas de documentos concluída: 36 registros
+2025-07-21 14:02:07,790 - INFO - 💾 Salvas 36 pastas de documentos em liferay_data/document_folders.json
+2025-07-21 14:02:07,790 - INFO - 📁 Coletando documentos da pasta 1/36: Fale com a Secretaria
+2025-07-21 14:02:07,790 - INFO - 📊 Iniciando coleta de documentos da pasta Fale com a Secretaria...
+2025-07-21 14:02:10,660 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:11,376 - INFO - 📈 documentos da pasta Fale com a Secretaria: 1 registros em 1 páginas
+2025-07-21 14:02:11,376 - INFO - 📄 Página 1/1: 1 itens coletados
+2025-07-21 14:02:11,376 - INFO - ✅ Coleta de documentos da pasta Fale com a Secretaria concluída: 1 registros
+2025-07-21 14:02:11,377 - INFO - 📁 Coletando documentos da pasta 2/36: Regionalização
+2025-07-21 14:02:11,378 - INFO - 📊 Iniciando coleta de documentos da pasta Regionalização...
+2025-07-21 14:02:14,628 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:15,207 - INFO - 📈 documentos da pasta Regionalização: 5 registros em 1 páginas
+2025-07-21 14:02:15,207 - INFO - 📄 Página 1/1: 5 itens coletados
+2025-07-21 14:02:15,207 - INFO - ✅ Coleta de documentos da pasta Regionalização concluída: 5 registros
+2025-07-21 14:02:15,209 - INFO - 📁 Coletando documentos da pasta 3/36: Programas – Combate ao Aedes Aegypti
+2025-07-21 14:02:15,210 - INFO - 📊 Iniciando coleta de documentos da pasta Programas – Combate ao Aedes Aegypti...
+2025-07-21 14:02:18,312 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:18,628 - INFO - 📈 documentos da pasta Programas – Combate ao Aedes Aegypti: 4 registros em 1 páginas
+2025-07-21 14:02:18,628 - INFO - 📄 Página 1/1: 4 itens coletados
+2025-07-21 14:02:18,628 - INFO - ✅ Coleta de documentos da pasta Programas – Combate ao Aedes Aegypti concluída: 4 registros
+2025-07-21 14:02:18,629 - INFO - 📁 Coletando documentos da pasta 4/36: Extrato de Pregão Eletrônico
+2025-07-21 14:02:18,629 - INFO - 📊 Iniciando coleta de documentos da pasta Extrato de Pregão Eletrônico...
+2025-07-21 14:02:21,533 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:22,704 - INFO - 📈 documentos da pasta Extrato de Pregão Eletrônico: 16 registros em 1 páginas
+2025-07-21 14:02:22,704 - INFO - 📄 Página 1/1: 16 itens coletados
+2025-07-21 14:02:22,704 - INFO - ✅ Coleta de documentos da pasta Extrato de Pregão Eletrônico concluída: 16 registros
+2025-07-21 14:02:22,706 - INFO - 📁 Coletando documentos da pasta 5/36: Boletins Covid-19
+2025-07-21 14:02:22,706 - INFO - 📊 Iniciando coleta de documentos da pasta Boletins Covid-19...
+2025-07-21 14:02:25,880 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:26,330 - INFO - 📈 documentos da pasta Boletins Covid-19: 14 registros em 1 páginas
+2025-07-21 14:02:26,330 - INFO - 📄 Página 1/1: 14 itens coletados
+2025-07-21 14:02:26,330 - INFO - ✅ Coleta de documentos da pasta Boletins Covid-19 concluída: 14 registros
+2025-07-21 14:02:26,333 - INFO - 📁 Coletando documentos da pasta 6/36: Notas Técnicas
+2025-07-21 14:02:26,333 - INFO - 📊 Iniciando coleta de documentos da pasta Notas Técnicas...
+2025-07-21 14:02:29,257 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:29,843 - INFO - 📈 documentos da pasta Notas Técnicas: 29 registros em 2 páginas
+2025-07-21 14:02:29,844 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:02:33,902 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:34,645 - INFO - 📄 Página 2/2: 9 itens coletados
+2025-07-21 14:02:34,645 - INFO - ✅ Coleta de documentos da pasta Notas Técnicas concluída: 29 registros
+2025-07-21 14:02:34,649 - INFO - 📁 Coletando documentos da pasta 7/36: Notícias
+2025-07-21 14:02:34,650 - INFO - 📊 Iniciando coleta de documentos da pasta Notícias...
+2025-07-21 14:02:37,643 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:38,209 - INFO - 📈 documentos da pasta Notícias: 280 registros em 14 páginas
+2025-07-21 14:02:38,209 - INFO - 📄 Página 1/14: 20 itens coletados
+2025-07-21 14:02:41,806 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:42,572 - INFO - 📄 Página 2/14: 20 itens coletados
+2025-07-21 14:02:46,383 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:46,987 - INFO - 📄 Página 3/14: 20 itens coletados
+2025-07-21 14:02:51,196 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:51,830 - INFO - 📄 Página 4/14: 20 itens coletados
+2025-07-21 14:02:55,192 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:55,746 - INFO - 📄 Página 5/14: 20 itens coletados
+2025-07-21 14:02:59,211 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:02:59,836 - INFO - 📄 Página 6/14: 20 itens coletados
+2025-07-21 14:03:03,455 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:04,083 - INFO - 📄 Página 7/14: 20 itens coletados
+2025-07-21 14:03:07,756 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:08,409 - INFO - 📄 Página 8/14: 20 itens coletados
+2025-07-21 14:03:12,033 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:12,788 - INFO - 📄 Página 9/14: 20 itens coletados
+2025-07-21 14:03:16,825 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:17,457 - INFO - 📄 Página 10/14: 20 itens coletados
+2025-07-21 14:03:20,664 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:21,788 - INFO - 📄 Página 11/14: 20 itens coletados
+2025-07-21 14:03:25,242 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:26,561 - INFO - 📄 Página 12/14: 20 itens coletados
+2025-07-21 14:03:29,906 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:30,696 - INFO - 📄 Página 13/14: 20 itens coletados
+2025-07-21 14:03:34,175 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:34,944 - INFO - 📄 Página 14/14: 20 itens coletados
+2025-07-21 14:03:34,944 - INFO - ✅ Coleta de documentos da pasta Notícias concluída: 280 registros
+2025-07-21 14:03:34,966 - INFO - 📁 Coletando documentos da pasta 8/36: Atas de Registro de preços
+2025-07-21 14:03:34,967 - INFO - 📊 Iniciando coleta de documentos da pasta Atas de Registro de preços...
+2025-07-21 14:03:37,945 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:38,330 - INFO - 📈 documentos da pasta Atas de Registro de preços: 1 registros em 1 páginas
+2025-07-21 14:03:38,331 - INFO - 📄 Página 1/1: 1 itens coletados
+2025-07-21 14:03:38,331 - INFO - ✅ Coleta de documentos da pasta Atas de Registro de preços concluída: 1 registros
+2025-07-21 14:03:38,332 - INFO - 📁 Coletando documentos da pasta 9/36: Dispensa de Licitação 2023
+2025-07-21 14:03:38,332 - INFO - 📊 Iniciando coleta de documentos da pasta Dispensa de Licitação 2023...
+2025-07-21 14:03:41,061 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:41,443 - INFO - 📈 documentos da pasta Dispensa de Licitação 2023: 7 registros em 1 páginas
+2025-07-21 14:03:41,443 - INFO - 📄 Página 1/1: 7 itens coletados
+2025-07-21 14:03:41,443 - INFO - ✅ Coleta de documentos da pasta Dispensa de Licitação 2023 concluída: 7 registros
+2025-07-21 14:03:41,445 - INFO - 📁 Coletando documentos da pasta 10/36: Contratos de Gestão
+2025-07-21 14:03:41,445 - INFO - 📊 Iniciando coleta de documentos da pasta Contratos de Gestão...
+2025-07-21 14:03:44,207 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:44,724 - INFO - 📈 documentos da pasta Contratos de Gestão: 38 registros em 2 páginas
+2025-07-21 14:03:44,724 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:03:48,384 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:48,941 - INFO - 📄 Página 2/2: 18 itens coletados
+2025-07-21 14:03:48,941 - INFO - ✅ Coleta de documentos da pasta Contratos de Gestão concluída: 38 registros
+2025-07-21 14:03:48,946 - INFO - 📁 Coletando documentos da pasta 11/36: Intranet
+2025-07-21 14:03:48,946 - INFO - 📊 Iniciando coleta de documentos da pasta Intranet...
+2025-07-21 14:03:52,216 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:52,741 - INFO - 📈 documentos da pasta Intranet: 11 registros em 1 páginas
+2025-07-21 14:03:52,741 - INFO - 📄 Página 1/1: 11 itens coletados
+2025-07-21 14:03:52,741 - INFO - ✅ Coleta de documentos da pasta Intranet concluída: 11 registros
+2025-07-21 14:03:52,743 - INFO - 📁 Coletando documentos da pasta 12/36: Dispensa de Licitação 2025
+2025-07-21 14:03:52,743 - INFO - 📊 Iniciando coleta de documentos da pasta Dispensa de Licitação 2025...
+2025-07-21 14:03:55,534 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:55,915 - INFO - 📈 documentos da pasta Dispensa de Licitação 2025: 7 registros em 1 páginas
+2025-07-21 14:03:55,915 - INFO - 📄 Página 1/1: 7 itens coletados
+2025-07-21 14:03:55,915 - INFO - ✅ Coleta de documentos da pasta Dispensa de Licitação 2025 concluída: 7 registros
+2025-07-21 14:03:55,917 - INFO - 📁 Coletando documentos da pasta 13/36: INEXIGIBILIDADE Contratação
+2025-07-21 14:03:55,917 - INFO - 📊 Iniciando coleta de documentos da pasta INEXIGIBILIDADE Contratação...
+2025-07-21 14:03:58,732 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:03:59,019 - INFO - 📈 documentos da pasta INEXIGIBILIDADE Contratação: 3 registros em 1 páginas
+2025-07-21 14:03:59,019 - INFO - 📄 Página 1/1: 3 itens coletados
+2025-07-21 14:03:59,019 - INFO - ✅ Coleta de documentos da pasta INEXIGIBILIDADE Contratação concluída: 3 registros
+2025-07-21 14:03:59,020 - INFO - 📁 Coletando documentos da pasta 14/36: DIENF
+2025-07-21 14:03:59,020 - INFO - 📊 Iniciando coleta de documentos da pasta DIENF...
+2025-07-21 14:04:01,840 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:02,110 - INFO - 📈 documentos da pasta DIENF: 0 registros em 1 páginas
+2025-07-21 14:04:02,111 - WARNING - ⚠️ Nenhum registro encontrado para documentos da pasta DIENF
+2025-07-21 14:04:02,111 - INFO - ✅ Coleta de documentos da pasta DIENF concluída: 0 registros
+2025-07-21 14:04:02,111 - INFO - 📁 Coletando documentos da pasta 15/36: Peticionamento Eletrônico
+2025-07-21 14:04:02,111 - INFO - 📊 Iniciando coleta de documentos da pasta Peticionamento Eletrônico...
+2025-07-21 14:04:05,875 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:06,165 - INFO - 📈 documentos da pasta Peticionamento Eletrônico: 1 registros em 1 páginas
+2025-07-21 14:04:06,166 - INFO - 📄 Página 1/1: 1 itens coletados
+2025-07-21 14:04:06,166 - INFO - ✅ Coleta de documentos da pasta Peticionamento Eletrônico concluída: 1 registros
+2025-07-21 14:04:06,167 - INFO - 📁 Coletando documentos da pasta 16/36: EDITAIS DE CREDENCIAMENTO
+2025-07-21 14:04:06,167 - INFO - 📊 Iniciando coleta de documentos da pasta EDITAIS DE CREDENCIAMENTO...
+2025-07-21 14:04:08,940 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:09,272 - INFO - 📈 documentos da pasta EDITAIS DE CREDENCIAMENTO: 3 registros em 1 páginas
+2025-07-21 14:04:09,273 - INFO - 📄 Página 1/1: 3 itens coletados
+2025-07-21 14:04:09,273 - INFO - ✅ Coleta de documentos da pasta EDITAIS DE CREDENCIAMENTO concluída: 3 registros
+2025-07-21 14:04:09,274 - INFO - 📁 Coletando documentos da pasta 17/36: Boletins
+2025-07-21 14:04:09,274 - INFO - 📊 Iniciando coleta de documentos da pasta Boletins...
+2025-07-21 14:04:12,349 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:12,618 - INFO - 📈 documentos da pasta Boletins: 0 registros em 1 páginas
+2025-07-21 14:04:12,618 - WARNING - ⚠️ Nenhum registro encontrado para documentos da pasta Boletins
+2025-07-21 14:04:12,618 - INFO - ✅ Coleta de documentos da pasta Boletins concluída: 0 registros
+2025-07-21 14:04:12,618 - INFO - 📁 Coletando documentos da pasta 18/36: Módulo de notícias com foto
+2025-07-21 14:04:12,618 - INFO - 📊 Iniciando coleta de documentos da pasta Módulo de notícias com foto...
+2025-07-21 14:04:15,494 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:15,850 - INFO - 📈 documentos da pasta Módulo de notícias com foto: 7 registros em 1 páginas
+2025-07-21 14:04:15,850 - INFO - 📄 Página 1/1: 7 itens coletados
+2025-07-21 14:04:15,851 - INFO - ✅ Coleta de documentos da pasta Módulo de notícias com foto concluída: 7 registros
+2025-07-21 14:04:15,865 - INFO - 📁 Coletando documentos da pasta 19/36: Órgãos Vinculados
+2025-07-21 14:04:15,865 - INFO - 📊 Iniciando coleta de documentos da pasta Órgãos Vinculados...
+2025-07-21 14:04:18,600 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:18,917 - INFO - 📈 documentos da pasta Órgãos Vinculados: 3 registros em 1 páginas
+2025-07-21 14:04:18,917 - INFO - 📄 Página 1/1: 3 itens coletados
+2025-07-21 14:04:18,917 - INFO - ✅ Coleta de documentos da pasta Órgãos Vinculados concluída: 3 registros
+2025-07-21 14:04:18,918 - INFO - 📁 Coletando documentos da pasta 20/36: Acesso Rápido
+2025-07-21 14:04:18,918 - INFO - 📊 Iniciando coleta de documentos da pasta Acesso Rápido...
+2025-07-21 14:04:22,359 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:22,683 - INFO - 📈 documentos da pasta Acesso Rápido: 4 registros em 1 páginas
+2025-07-21 14:04:22,683 - INFO - 📄 Página 1/1: 4 itens coletados
+2025-07-21 14:04:22,684 - INFO - ✅ Coleta de documentos da pasta Acesso Rápido concluída: 4 registros
+2025-07-21 14:04:22,685 - INFO - 📁 Coletando documentos da pasta 21/36: Informações
+2025-07-21 14:04:22,685 - INFO - 📊 Iniciando coleta de documentos da pasta Informações...
+2025-07-21 14:04:25,487 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:26,047 - INFO - 📈 documentos da pasta Informações: 33 registros em 2 páginas
+2025-07-21 14:04:26,047 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:04:29,617 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:30,121 - INFO - 📄 Página 2/2: 13 itens coletados
+2025-07-21 14:04:30,121 - INFO - ✅ Coleta de documentos da pasta Informações concluída: 33 registros
+2025-07-21 14:04:30,125 - INFO - 📁 Coletando documentos da pasta 22/36: Transparência - Lei de Acesso à Informação
+2025-07-21 14:04:30,125 - INFO - 📊 Iniciando coleta de documentos da pasta Transparência - Lei de Acesso à Informação...
+2025-07-21 14:04:34,036 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:34,706 - INFO - 📈 documentos da pasta Transparência - Lei de Acesso à Informação: 16 registros em 1 páginas
+2025-07-21 14:04:34,706 - INFO - 📄 Página 1/1: 16 itens coletados
+2025-07-21 14:04:34,706 - INFO - ✅ Coleta de documentos da pasta Transparência - Lei de Acesso à Informação concluída: 16 registros
+2025-07-21 14:04:34,709 - INFO - 📁 Coletando documentos da pasta 23/36: Contratos
+2025-07-21 14:04:34,710 - INFO - 📊 Iniciando coleta de documentos da pasta Contratos...
+2025-07-21 14:04:37,852 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:38,318 - INFO - 📈 documentos da pasta Contratos: 32 registros em 2 páginas
+2025-07-21 14:04:38,318 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:04:41,935 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:42,453 - INFO - 📄 Página 2/2: 12 itens coletados
+2025-07-21 14:04:42,454 - INFO - ✅ Coleta de documentos da pasta Contratos concluída: 32 registros
+2025-07-21 14:04:42,458 - INFO - 📁 Coletando documentos da pasta 24/36: Banners
+2025-07-21 14:04:42,458 - INFO - 📊 Iniciando coleta de documentos da pasta Banners...
+2025-07-21 14:04:45,398 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:45,863 - INFO - 📈 documentos da pasta Banners: 35 registros em 2 páginas
+2025-07-21 14:04:45,864 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:04:49,342 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:50,116 - INFO - 📄 Página 2/2: 15 itens coletados
+2025-07-21 14:04:50,118 - INFO - ✅ Coleta de documentos da pasta Banners concluída: 35 registros
+2025-07-21 14:04:50,123 - INFO - 📁 Coletando documentos da pasta 25/36: Atas de Registro de Preço
+2025-07-21 14:04:50,123 - INFO - 📊 Iniciando coleta de documentos da pasta Atas de Registro de Preço...
+2025-07-21 14:04:53,355 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:53,854 - INFO - 📈 documentos da pasta Atas de Registro de Preço: 17 registros em 1 páginas
+2025-07-21 14:04:53,854 - INFO - 📄 Página 1/1: 17 itens coletados
+2025-07-21 14:04:53,854 - INFO - ✅ Coleta de documentos da pasta Atas de Registro de Preço concluída: 17 registros
+2025-07-21 14:04:53,857 - INFO - 📁 Coletando documentos da pasta 26/36: Vigilância à Saúde
+2025-07-21 14:04:53,857 - INFO - 📊 Iniciando coleta de documentos da pasta Vigilância à Saúde...
+2025-07-21 14:04:56,520 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:04:57,014 - INFO - 📈 documentos da pasta Vigilância à Saúde: 33 registros em 2 páginas
+2025-07-21 14:04:57,015 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:05:00,863 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:01,866 - INFO - 📄 Página 2/2: 13 itens coletados
+2025-07-21 14:05:01,866 - INFO - ✅ Coleta de documentos da pasta Vigilância à Saúde concluída: 33 registros
+2025-07-21 14:05:01,874 - INFO - 📁 Coletando documentos da pasta 27/36: Comunicação
+2025-07-21 14:05:01,874 - INFO - 📊 Iniciando coleta de documentos da pasta Comunicação...
+2025-07-21 14:05:04,993 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:05,612 - INFO - 📈 documentos da pasta Comunicação: 19 registros em 1 páginas
+2025-07-21 14:05:05,612 - INFO - 📄 Página 1/1: 19 itens coletados
+2025-07-21 14:05:05,612 - INFO - ✅ Coleta de documentos da pasta Comunicação concluída: 19 registros
+2025-07-21 14:05:05,619 - INFO - 📁 Coletando documentos da pasta 28/36: Covid-19
+2025-07-21 14:05:05,619 - INFO - 📊 Iniciando coleta de documentos da pasta Covid-19...
+2025-07-21 14:05:08,738 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:09,195 - INFO - 📈 documentos da pasta Covid-19: 14 registros em 1 páginas
+2025-07-21 14:05:09,195 - INFO - 📄 Página 1/1: 14 itens coletados
+2025-07-21 14:05:09,195 - INFO - ✅ Coleta de documentos da pasta Covid-19 concluída: 14 registros
+2025-07-21 14:05:09,198 - INFO - 📁 Coletando documentos da pasta 29/36: Governança
+2025-07-21 14:05:09,198 - INFO - 📊 Iniciando coleta de documentos da pasta Governança...
+2025-07-21 14:05:11,991 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:12,316 - INFO - 📈 documentos da pasta Governança: 3 registros em 1 páginas
+2025-07-21 14:05:12,317 - INFO - 📄 Página 1/1: 3 itens coletados
+2025-07-21 14:05:12,317 - INFO - ✅ Coleta de documentos da pasta Governança concluída: 3 registros
+2025-07-21 14:05:12,331 - INFO - 📁 Coletando documentos da pasta 30/36: Carta de Serviços
+2025-07-21 14:05:12,331 - INFO - 📊 Iniciando coleta de documentos da pasta Carta de Serviços...
+2025-07-21 14:05:15,108 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:15,398 - INFO - 📈 documentos da pasta Carta de Serviços: 0 registros em 1 páginas
+2025-07-21 14:05:15,398 - WARNING - ⚠️ Nenhum registro encontrado para documentos da pasta Carta de Serviços
+2025-07-21 14:05:15,398 - INFO - ✅ Coleta de documentos da pasta Carta de Serviços concluída: 0 registros
+2025-07-21 14:05:15,399 - INFO - 📁 Coletando documentos da pasta 31/36: Subsecretarias
+2025-07-21 14:05:15,399 - INFO - 📊 Iniciando coleta de documentos da pasta Subsecretarias...
+2025-07-21 14:05:18,639 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:18,920 - INFO - 📈 documentos da pasta Subsecretarias: 0 registros em 1 páginas
+2025-07-21 14:05:18,920 - WARNING - ⚠️ Nenhum registro encontrado para documentos da pasta Subsecretarias
+2025-07-21 14:05:18,920 - INFO - ✅ Coleta de documentos da pasta Subsecretarias concluída: 0 registros
+2025-07-21 14:05:18,920 - INFO - 📁 Coletando documentos da pasta 32/36: Métodos contraceptivos
+2025-07-21 14:05:18,920 - INFO - 📊 Iniciando coleta de documentos da pasta Métodos contraceptivos...
+2025-07-21 14:05:21,925 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:22,319 - INFO - 📈 documentos da pasta Métodos contraceptivos: 11 registros em 1 páginas
+2025-07-21 14:05:22,319 - INFO - 📄 Página 1/1: 11 itens coletados
+2025-07-21 14:05:22,320 - INFO - ✅ Coleta de documentos da pasta Métodos contraceptivos concluída: 11 registros
+2025-07-21 14:05:22,322 - INFO - 📁 Coletando documentos da pasta 33/36: Vacinômetro
+2025-07-21 14:05:22,322 - INFO - 📊 Iniciando coleta de documentos da pasta Vacinômetro...
+2025-07-21 14:05:25,094 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:25,764 - INFO - 📈 documentos da pasta Vacinômetro: 127 registros em 7 páginas
+2025-07-21 14:05:25,764 - INFO - 📄 Página 1/7: 20 itens coletados
+2025-07-21 14:05:29,169 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:29,751 - INFO - 📄 Página 2/7: 20 itens coletados
+2025-07-21 14:05:33,527 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:34,220 - INFO - 📄 Página 3/7: 20 itens coletados
+2025-07-21 14:05:37,608 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:38,171 - INFO - 📄 Página 4/7: 20 itens coletados
+2025-07-21 14:05:41,841 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:42,500 - INFO - 📄 Página 5/7: 20 itens coletados
+2025-07-21 14:05:45,838 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:46,438 - INFO - 📄 Página 6/7: 20 itens coletados
+2025-07-21 14:05:49,896 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:51,135 - INFO - 📄 Página 7/7: 7 itens coletados
+2025-07-21 14:05:51,135 - INFO - ✅ Coleta de documentos da pasta Vacinômetro concluída: 127 registros
+2025-07-21 14:05:51,148 - INFO - 📁 Coletando documentos da pasta 34/36: Comissão Central de Farmácia e Terapêutica (CCFT)
+2025-07-21 14:05:51,149 - INFO - 📊 Iniciando coleta de documentos da pasta Comissão Central de Farmácia e Terapêutica (CCFT)...
+2025-07-21 14:05:54,140 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:54,591 - INFO - 📈 documentos da pasta Comissão Central de Farmácia e Terapêutica (CCFT): 12 registros em 1 páginas
+2025-07-21 14:05:54,591 - INFO - 📄 Página 1/1: 12 itens coletados
+2025-07-21 14:05:54,592 - INFO - ✅ Coleta de documentos da pasta Comissão Central de Farmácia e Terapêutica (CCFT) concluída: 12 registros
+2025-07-21 14:05:54,594 - INFO - 📁 Coletando documentos da pasta 35/36: Vacinação
+2025-07-21 14:05:54,594 - INFO - 📊 Iniciando coleta de documentos da pasta Vacinação...
+2025-07-21 14:05:57,957 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:05:58,603 - INFO - 📈 documentos da pasta Vacinação: 16 registros em 1 páginas
+2025-07-21 14:05:58,604 - INFO - 📄 Página 1/1: 16 itens coletados
+2025-07-21 14:05:58,604 - INFO - ✅ Coleta de documentos da pasta Vacinação concluída: 16 registros
+2025-07-21 14:05:58,607 - INFO - 📁 Coletando documentos da pasta 36/36: Saúde sem fake news
+2025-07-21 14:05:58,607 - INFO - 📊 Iniciando coleta de documentos da pasta Saúde sem fake news...
+2025-07-21 14:06:02,062 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:06:02,698 - INFO - 📈 documentos da pasta Saúde sem fake news: 24 registros em 2 páginas
+2025-07-21 14:06:02,698 - INFO - 📄 Página 1/2: 20 itens coletados
+2025-07-21 14:06:06,623 - WARNING - ⚠️ CSRF token não encontrado em nenhuma fonte
+2025-07-21 14:06:06,985 - INFO - 📄 Página 2/2: 4 itens coletados
+2025-07-21 14:06:06,985 - INFO - ✅ Coleta de documentos da pasta Saúde sem fake news concluída: 24 registros
+2025-07-21 14:06:07,064 - INFO - 💾 Salvos 826 documentos em liferay_data/all_documents.json
+2025-07-21 14:06:07,067 - INFO - ==================================================
+2025-07-21 14:06:07,067 - INFO - 📊 RESUMO DA COLETA
+2025-07-21 14:06:07,067 - INFO - ==================================================
+2025-07-21 14:06:07,067 - INFO - ✅ Conteúdos estruturados: 8300
+2025-07-21 14:06:07,067 - INFO - 📁 Pastas de conteúdo: 28
+2025-07-21 14:06:07,067 - INFO - 🌐 Páginas do site: 10
+2025-07-21 14:06:07,067 - INFO - 📂 Pastas de documentos: 36
+2025-07-21 14:06:07,067 - INFO - 📋 Documentos: 826
+2025-07-21 14:06:07,067 - INFO - ❌ Erros: 1
+2025-07-21 14:06:07,067 - INFO - ⏱️ Duração total: 0:51:30.255373
+2025-07-21 14:06:07,067 - INFO - 📄 Relatório salvo em: liferay_data/summary_report.json

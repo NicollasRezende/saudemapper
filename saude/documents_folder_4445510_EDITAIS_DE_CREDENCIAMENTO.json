@@ -1,0 +1,185 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439354/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439354"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439354"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439354"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4439354"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4445510/Qualifica%C3%A7%C3%A3o+T%C3%A9cnica+Subcontratadas.pdf/fe5c6a87-4731-65d5-50ed-d7740211fe65?version=1.0&t=1751903677974",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-07T15:54:35Z",
+    "dateModified": "2025-07-07T15:54:37Z",
+    "description": "",
+    "documentFolderId": 4445510,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4439354",
+    "fileExtension": "pdf",
+    "id": 4439354,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 167615,
+    "taxonomyCategoryBriefs": [],
+    "title": "Qualificação Técnica Subcontratadas.pdf",
+    "source_folder": {
+      "id": 4445510,
+      "name": "EDITAIS DE CREDENCIAMENTO"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445513/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445513"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445513"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445513"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445513"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4445510/EDITAL+DE+CREDENCIAMENTO+07.2025.pdf/4e01d4c8-91fe-fcf2-bb8d-19392d64a2a7?version=1.0&t=1751892380043",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-07T12:46:19Z",
+    "dateModified": "2025-07-07T12:46:20Z",
+    "description": "",
+    "documentFolderId": 4445510,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4445513",
+    "fileExtension": "pdf",
+    "id": 4445513,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1231638,
+    "taxonomyCategoryBriefs": [],
+    "title": "EDITAL DE CREDENCIAMENTO 07.2025.pdf",
+    "source_folder": {
+      "id": 4445510,
+      "name": "EDITAIS DE CREDENCIAMENTO"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445532/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445532"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445532"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445532"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4445532"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4445510/EDITAL+DE+CREDENCIAMENTO+07.+2025...pdf/466ab1b7-f761-1a32-151a-eb85a3106652?version=1.0&t=1751892630716",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-07T12:50:30Z",
+    "dateModified": "2025-07-07T12:50:30Z",
+    "description": "",
+    "documentFolderId": 4445510,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4445532",
+    "fileExtension": "pdf",
+    "id": 4445532,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1688467,
+    "taxonomyCategoryBriefs": [],
+    "title": "EDITAL DE CREDENCIAMENTO 07. 2025...pdf",
+    "source_folder": {
+      "id": 4445510,
+      "name": "EDITAIS DE CREDENCIAMENTO"
+    }
+  }
+]

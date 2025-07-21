@@ -1,0 +1,63 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443121/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443121"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443121"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443121"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4443121"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4443118/Manual_PETICIONAMENTO_ELETRONICO__1_.pdf/afd2f968-84f9-9d04-ac1c-604b53979cf1?version=1.0&t=1751480491716",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T18:21:31Z",
+    "dateModified": "2025-07-02T18:21:31Z",
+    "description": "",
+    "documentFolderId": 4443118,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4443121",
+    "fileExtension": "pdf",
+    "id": 4443121,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1913256,
+    "taxonomyCategoryBriefs": [],
+    "title": "Manual_PETICIONAMENTO_ELETRONICO__1_.pdf",
+    "source_folder": {
+      "id": 4443118,
+      "name": "Peticionamento Eletrônico"
+    }
+  }
+]

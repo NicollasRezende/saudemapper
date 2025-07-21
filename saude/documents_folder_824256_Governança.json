@@ -1,0 +1,192 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667450/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667450"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667450"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667450"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667450"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/824256/AGENDA+DE+REUNI%C3%95ES+DO+CIG+E+DO+F%C3%93RUM+.pdf/d6c44523-5f54-9f3e-030e-9d882900eaad?version=1.0&t=1657989770286",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-07-16T16:42:47Z",
+    "dateModified": "2022-07-16T16:42:50Z",
+    "description": "",
+    "documentFolderId": 824256,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1667450",
+    "fileExtension": "pdf",
+    "id": 1667450,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 16797,
+    "taxonomyCategoryBriefs": [],
+    "title": "AGENDA DE REUNIÕES DO CIG E DO FÓRUM .pdf",
+    "source_folder": {
+      "id": 824256,
+      "name": "Governança"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667479/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667479"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667479"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667479"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1667479"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/824256/AGENDA+DE+REUNI%C3%95ES+DO+CIG+E+DO+F%C3%93RUM++%281%29.pdf/7f24c51e-feb3-9d49-e0e9-5117a0607e01?version=1.0&t=1657989994963",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-07-16T16:46:34Z",
+    "dateModified": "2022-07-16T16:46:34Z",
+    "description": "",
+    "documentFolderId": 824256,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "1667479",
+    "fileExtension": "pdf",
+    "id": 1667479,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 16797,
+    "taxonomyCategoryBriefs": [],
+    "title": "AGENDA DE REUNIÕES DO CIG E DO FÓRUM  (1).pdf",
+    "source_folder": {
+      "id": 824256,
+      "name": "Governança"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/824274/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/824274"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/824274"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/824274"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/824274"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/824274/Preview-1000x0/imagem-768x289.png?t=1649983709496",
+        "height": 289,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 62120,
+        "width": 768
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/824274/Thumbnail-300x300/imagem-768x289.png?t=1649983709496",
+        "height": 113,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 16864,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/824256/imagem-768x289.png/59734ccd-8c21-b0bd-33c4-8e97483af6ea?version=1.0&t=1649983709496",
+    "customFields": [],
+    "dateCreated": "2022-04-15T00:47:36Z",
+    "dateModified": "2022-04-15T00:48:29Z",
+    "description": "",
+    "documentFolderId": 824256,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "824274",
+    "fileExtension": "png",
+    "id": 824274,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 66766,
+    "taxonomyCategoryBriefs": [],
+    "title": "imagem-768x289",
+    "source_folder": {
+      "id": 824256,
+      "name": "Governança"
+    }
+  }
+]

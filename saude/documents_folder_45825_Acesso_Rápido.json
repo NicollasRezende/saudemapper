@@ -1,0 +1,306 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/44768/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/44768"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/44768"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/44768"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/44768"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/44768/Preview-1000x0/logo-acesso-info.jpeg?t=1648121444840",
+        "height": 410,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 22085,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/44768/Thumbnail-300x300/logo-acesso-info.jpeg?t=1648121444840",
+        "height": 164,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 6284,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45825/logo-acesso-info.jpeg/99ec7ced-90e0-8eaa-3bf7-12d3a28e8fe7?version=3.0&t=1648121444840",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-22T20:37:36Z",
+    "dateModified": "2022-03-24T11:30:44Z",
+    "description": "",
+    "documentFolderId": 45825,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "44768",
+    "fileExtension": "jpeg",
+    "id": 44768,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 52871,
+    "taxonomyCategoryBriefs": [],
+    "title": "logo-acesso-info.jpeg",
+    "source_folder": {
+      "id": 45825,
+      "name": "Acesso Rápido"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49460/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49460"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49460"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49460"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49460"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/49460/Preview-1000x0/Ouvidoria.jpg?t=1648121526838",
+        "height": 410,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 22119,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/49460/Thumbnail-300x300/Ouvidoria.jpg?t=1648121526838",
+        "height": 164,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 6922,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45825/Ouvidoria.jpg/d513434f-98e3-8ed9-7b82-898ba91e2c6f?version=2.0&t=1648121526838",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-24T11:25:35Z",
+    "dateModified": "2022-03-24T11:32:06Z",
+    "description": "",
+    "documentFolderId": 45825,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "49460",
+    "fileExtension": "jpg",
+    "id": 49460,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 44959,
+    "taxonomyCategoryBriefs": [],
+    "title": "Ouvidoria",
+    "source_folder": {
+      "id": 45825,
+      "name": "Acesso Rápido"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49633/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49633"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49633"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49633"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49633"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/49633/Preview-1000x0/icone-carta-servico.png?t=1648123390240",
+        "height": 70,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 3279,
+        "width": 300
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/49633/Thumbnail-300x300/icone-carta-servico.png?t=1648123390240",
+        "height": 70,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 3279,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45825/icone-carta-servico.png/3bcc2698-9f96-1517-a219-b01fe3a2e886?version=1.0&t=1648123390240",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-24T12:03:10Z",
+    "dateModified": "2022-03-24T12:03:10Z",
+    "description": "",
+    "documentFolderId": 45825,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "49633",
+    "fileExtension": "png",
+    "id": 49633,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 61250,
+    "taxonomyCategoryBriefs": [],
+    "title": "icone-carta-servico",
+    "source_folder": {
+      "id": 45825,
+      "name": "Acesso Rápido"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49644/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49644"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49644"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49644"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/49644"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/49644/Preview-1000x0/icone-sinjdf.png?t=1648123390575",
+        "height": 70,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 12140,
+        "width": 300
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/49644/Thumbnail-300x300/icone-sinjdf.png?t=1648123390575",
+        "height": 70,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 12140,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45825/icone-sinjdf.png/ee7fa18b-01ca-eab4-2612-76d27083f3e8?version=1.0&t=1648123390575",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-24T12:03:10Z",
+    "dateModified": "2022-03-24T12:03:10Z",
+    "description": "",
+    "documentFolderId": 45825,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "49644",
+    "fileExtension": "png",
+    "id": 49644,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 14782,
+    "taxonomyCategoryBriefs": [],
+    "title": "icone-sinjdf",
+    "source_folder": {
+      "id": 45825,
+      "name": "Acesso Rápido"
+    }
+  }
+]

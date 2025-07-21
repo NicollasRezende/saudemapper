@@ -1,0 +1,367 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075697/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075697"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075697"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075697"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075697"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1075697/Preview-1000x0/o_que_e_regionalizacao.png?t=1656350452978",
+        "height": 99,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 9798,
+        "width": 592
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1075697/Thumbnail-300x300/o_que_e_regionalizacao.png?t=1656350452978",
+        "height": 50,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 6953,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1075694/o_que_e_regionalizacao.png/1cb547b0-6ca0-5cf7-b73a-93d415ded786?version=1.0&t=1656350452978",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:44:13Z",
+    "dateModified": "2022-06-27T17:20:52Z",
+    "description": "",
+    "documentFolderId": 1075694,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1075697",
+    "fileExtension": "png",
+    "id": 1075697,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 15733,
+    "taxonomyCategoryBriefs": [],
+    "title": "o_que_e_regionalizacao.png",
+    "source_folder": {
+      "id": 1075694,
+      "name": "Regionalização"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075708/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075708"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075708"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075708"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075708"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1075708/Preview-1000x0/historico.png?t=1656351011397",
+        "height": 99,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 6034,
+        "width": 592
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1075708/Thumbnail-300x300/historico.png?t=1656351011397",
+        "height": 50,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 4539,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1075694/historico.png/95320ce2-bb83-3882-7bc6-54a3285d06e4?version=1.0&t=1656351011397",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:44:25Z",
+    "dateModified": "2022-06-27T17:30:11Z",
+    "description": "",
+    "documentFolderId": 1075694,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1075708",
+    "fileExtension": "png",
+    "id": 1075708,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 8993,
+    "taxonomyCategoryBriefs": [],
+    "title": "historico.png",
+    "source_folder": {
+      "id": 1075694,
+      "name": "Regionalização"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075735/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075735"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075735"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075735"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075735"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1075735/Preview-1000x0/resultados.png?t=1651502687036",
+        "height": 99,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 6061,
+        "width": 592
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1075735/Thumbnail-300x300/resultados.png?t=1651502687036",
+        "height": 50,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 3938,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1075694/resultados.png/01e57a77-5392-6299-7ece-8613302152c4?version=1.0&t=1651502687036",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:44:46Z",
+    "dateModified": "2022-05-02T14:44:47Z",
+    "description": "",
+    "documentFolderId": 1075694,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1075735",
+    "fileExtension": "png",
+    "id": 1075735,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 8235,
+    "taxonomyCategoryBriefs": [],
+    "title": "resultados.png",
+    "source_folder": {
+      "id": 1075694,
+      "name": "Regionalização"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075756/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075756"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075756"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075756"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/1075756"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/1075756/Preview-1000x0/duvidas_frequentes.png?t=1651502704902",
+        "height": 99,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 6895,
+        "width": 592
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/1075756/Thumbnail-300x300/duvidas_frequentes.png?t=1651502704902",
+        "height": 50,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 4798,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/1075694/duvidas_frequentes.png/9ac26f9d-4be2-b2dd-3451-a1c6b87f635c?version=1.0&t=1651502704902",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-05-02T14:45:04Z",
+    "dateModified": "2022-05-02T14:45:04Z",
+    "description": "",
+    "documentFolderId": 1075694,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "1075756",
+    "fileExtension": "png",
+    "id": 1075756,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 10531,
+    "taxonomyCategoryBriefs": [],
+    "title": "duvidas_frequentes.png",
+    "source_folder": {
+      "id": 1075694,
+      "name": "Regionalização"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2529741/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2529741"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2529741"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2529741"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2529741"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/1075694/CAPS_NORTE.pdf/bc29b6ca-7002-7987-9055-e59600805ec5?version=1.0&t=1663682342817",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-20T13:59:02Z",
+    "dateModified": "2022-09-20T13:59:02Z",
+    "description": "",
+    "documentFolderId": 1075694,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2529741",
+    "fileExtension": "pdf",
+    "id": 2529741,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 725689,
+    "taxonomyCategoryBriefs": [],
+    "title": "CAPS_NORTE.pdf",
+    "source_folder": {
+      "id": 1075694,
+      "name": "Regionalização"
+    }
+  }
+]

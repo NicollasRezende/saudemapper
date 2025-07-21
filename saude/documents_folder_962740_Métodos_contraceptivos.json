@@ -1,0 +1,750 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962778/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962778"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962778"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962778"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962778"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962778/Preview-1000x0/01_banner_vasectomia.png?t=1650910716840",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 9848,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962778/Thumbnail-300x300/01_banner_vasectomia.png?t=1650910716840",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2332,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_vasectomia.png/01d5c508-fc08-a099-a94c-0636e46a6f80?version=1.0&t=1650910716840",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:36Z",
+    "dateModified": "2022-04-25T18:18:36Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962778",
+    "fileExtension": "png",
+    "id": 962778,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 12186,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_vasectomia",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962788/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962788"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962788"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962788"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962788"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962788/Preview-1000x0/01_banner_p%C3%ADlulas_anticoncepcionais.png?t=1650910717830",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 14006,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962788/Thumbnail-300x300/01_banner_p%C3%ADlulas_anticoncepcionais.png?t=1650910717830",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 3379,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_p%C3%ADlulas_anticoncepcionais.png/17c1b01f-3d4c-a2ca-7887-1e8aa6a4c8d8?version=1.0&t=1650910717830",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:37Z",
+    "dateModified": "2022-04-25T18:18:37Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962788",
+    "fileExtension": "png",
+    "id": 962788,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 16118,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_pílulas_anticoncepcionais",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962803/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962803"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962803"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962803"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962803"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962803/Preview-1000x0/01_banner_laqueadura_tub%C3%A1ria.png?t=1650910718293",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 11533,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962803/Thumbnail-300x300/01_banner_laqueadura_tub%C3%A1ria.png?t=1650910718293",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2819,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_laqueadura_tub%C3%A1ria.png/20d54fba-c71d-3cc0-f55b-cb9528d70496?version=1.0&t=1650910718293",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:38Z",
+    "dateModified": "2022-04-25T18:18:38Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962803",
+    "fileExtension": "png",
+    "id": 962803,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 12995,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_laqueadura_tubária",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962817/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962817"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962817"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962817"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962817"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962817/Preview-1000x0/01_banner_inje%C3%A7%C3%B5es_anticoncepcionais.png?t=1650910718810",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 12976,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962817/Thumbnail-300x300/01_banner_inje%C3%A7%C3%B5es_anticoncepcionais.png?t=1650910718810",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 3335,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_inje%C3%A7%C3%B5es_anticoncepcionais.png/89462927-c8d3-310f-1ddc-517e44ddd95a?version=1.0&t=1650910718810",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:38Z",
+    "dateModified": "2022-04-25T18:18:38Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962817",
+    "fileExtension": "png",
+    "id": 962817,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 13498,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_injeções_anticoncepcionais",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962829/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962829"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962829"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962829"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962829"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962829/Preview-1000x0/01_banner_essure.png?t=1650910719281",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 5752,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962829/Thumbnail-300x300/01_banner_essure.png?t=1650910719281",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 1401,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_essure.png/6415033e-6896-5b38-e3b5-74d2ef67a436?version=1.0&t=1650910719281",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:39Z",
+    "dateModified": "2022-04-25T18:18:39Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962829",
+    "fileExtension": "png",
+    "id": 962829,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7766,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_essure",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962843/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962843"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962843"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962843"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962843"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962843/Preview-1000x0/01_banner_DIU_dispositivo_intrauterino.png?t=1650910719755",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 10375,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962843/Thumbnail-300x300/01_banner_DIU_dispositivo_intrauterino.png?t=1650910719755",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2856,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_DIU_dispositivo_intrauterino.png/ce2dc165-d634-b405-40f2-832b6ac53dfc?version=1.0&t=1650910719755",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:39Z",
+    "dateModified": "2022-04-25T18:18:39Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962843",
+    "fileExtension": "png",
+    "id": 962843,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 9897,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_DIU_dispositivo_intrauterino",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962856/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962856"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962856"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962856"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962856"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962856/Preview-1000x0/01_banner_diafragma.png?t=1650910720319",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 7682,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962856/Thumbnail-300x300/01_banner_diafragma.png?t=1650910720319",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2078,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_diafragma.png/f10da412-aba1-abfb-0bf6-9a9e9d938fc7?version=1.0&t=1650910720319",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:40Z",
+    "dateModified": "2022-04-25T18:18:40Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962856",
+    "fileExtension": "png",
+    "id": 962856,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 9448,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_diafragma",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962869/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962869"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962869"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962869"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962869"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962869/Preview-1000x0/01_banner_camisinha_masculina.png?t=1650910720821",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 8165,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962869/Thumbnail-300x300/01_banner_camisinha_masculina.png?t=1650910720821",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2288,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_camisinha_masculina.png/a0862a6d-e9d9-71d6-bedf-79eb669d5962?version=1.0&t=1650910720821",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:40Z",
+    "dateModified": "2022-04-25T18:18:40Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962869",
+    "fileExtension": "png",
+    "id": 962869,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7700,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_camisinha_masculina",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962882/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962882"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962882"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962882"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962882"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962882/Preview-1000x0/01_banner_camisinha_feminina.png?t=1650910721296",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 10420,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962882/Thumbnail-300x300/01_banner_camisinha_feminina.png?t=1650910721296",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2693,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_camisinha_feminina.png/c5e24673-8bed-480b-f26c-44e0bd4d643d?version=1.0&t=1650910721296",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:41Z",
+    "dateModified": "2022-04-25T18:18:41Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962882",
+    "fileExtension": "png",
+    "id": 962882,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 11695,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_camisinha_feminina",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962895/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962895"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962895"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962895"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962895"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962895/Preview-1000x0/01_banner_p%C3%ADlula_de_emerg%C3%AAncia.png?t=1650910721808",
+        "height": 104,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 10800,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962895/Thumbnail-300x300/01_banner_p%C3%ADlula_de_emerg%C3%AAncia.png?t=1650910721808",
+        "height": 31,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2770,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/01_banner_p%C3%ADlula_de_emerg%C3%AAncia.png/e0a4e363-77af-a01c-10ae-1761cfb12fb4?version=1.0&t=1650910721808",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:41Z",
+    "dateModified": "2022-04-25T18:18:41Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962895",
+    "fileExtension": "png",
+    "id": 962895,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 11244,
+    "taxonomyCategoryBriefs": [],
+    "title": "01_banner_pílula_de_emergência",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962907/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962907"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962907"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962907"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/962907"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/962907/Preview-1000x0/M%C3%A9todos+contraceptivos.png?t=1650910722343",
+        "height": 532,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 84891,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/962907/Thumbnail-300x300/M%C3%A9todos+contraceptivos.png?t=1650910722343",
+        "height": 160,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 21039,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/962740/M%C3%A9todos+contraceptivos.png/bf7b985f-a8f9-fa48-0e86-d8898013aedb?version=1.0&t=1650910722343",
+    "customFields": [],
+    "dateCreated": "2022-04-25T18:18:42Z",
+    "dateModified": "2022-04-25T18:18:42Z",
+    "description": "",
+    "documentFolderId": 962740,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "962907",
+    "fileExtension": "png",
+    "id": 962907,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 119819,
+    "taxonomyCategoryBriefs": [],
+    "title": "Métodos contraceptivos",
+    "source_folder": {
+      "id": 962740,
+      "name": "Métodos contraceptivos"
+    }
+  }
+]

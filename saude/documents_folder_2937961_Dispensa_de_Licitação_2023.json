@@ -1,0 +1,429 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2194674/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2194674"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2194674"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2194674"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2194674"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+897-2022+V%C3%ADdeo+eletrencefalograma+com+ou+sem+uso+de+eletrodo+profundo.zip/ca837e6c-34c1-c740-eaa7-49f52e1d0069?version=1.0&t=1711223912891",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-08-10T11:59:05Z",
+    "dateModified": "2024-03-23T19:58:32Z",
+    "description": "Vídeo eletrencefalograma com ou sem uso de eletrodo profundo",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/zip",
+    "externalReferenceCode": "2194674",
+    "fileExtension": "zip",
+    "id": 2194674,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 390523,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 897-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2400001/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2400001"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2400001"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2400001"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2400001"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o++1007_2022+-+V%C3%ADdeo+eletrencefalograma+com+ou+sem+uso+de+eletrodo+profundo.zip/e6e38171-49a5-ce22-428e-c33be3cb3d5c?version=1.0&t=1711223912538",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-01T14:24:50Z",
+    "dateModified": "2024-03-23T19:58:32Z",
+    "description": "- Vídeo eletrencefalograma com ou sem uso de eletrodo profundo",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/zip",
+    "externalReferenceCode": "2400001",
+    "fileExtension": "zip",
+    "id": 2400001,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 441285,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação  1007_2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2418804/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2418804"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2418804"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2418804"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2418804"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+1013-2022+Exame+-+V%C3%8DDEO+ELETROENCEFALOGRAMA+COM+OU+SEM+USO+DE+ELETRODO+PROFUNDO.pdf/d8521805-8336-4ef1-dd65-7cd6d5de1b85?version=1.0&t=1711223967694",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-02T13:07:48Z",
+    "dateModified": "2024-03-23T19:59:27Z",
+    "description": "Exame - VÍDEO ELETROENCEFALOGRAMA COM OU SEM USO DE ELETRODO PROFUNDO",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2418804",
+    "fileExtension": "pdf",
+    "id": 2418804,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 302621,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 1013-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2513210/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2513210"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2513210"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2513210"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2513210"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+1027-2022+V%C3%ADdeo+eletroencefalograma+com+ou+sem+uso+de+eletrodo+profundo.pdf/9a1e6ba6-d0fc-2b32-f48b-2b39fd48fbc1?version=1.0&t=1711223968702",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-16T11:13:03Z",
+    "dateModified": "2024-03-23T19:59:28Z",
+    "description": "Vídeo eletroencefalograma com ou sem uso de eletrodo profundo",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2513210",
+    "fileExtension": "pdf",
+    "id": 2513210,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 279120,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 1027-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2526556/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2526556"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2526556"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2526556"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2526556"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+1087-2022+CATETER+QUICK+SET+9MM+C%C3%82NULA%2C+60+CM+DE+TUBO+e+outro.zip/61903f38-5192-3bfb-4919-8caab014479f?version=1.0&t=1711223933435",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-09-20T16:58:47Z",
+    "dateModified": "2024-03-23T19:58:53Z",
+    "description": "CATETER QUICK SET 9MM CÂNULA, 60 CM DE TUBO e outro",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/zip",
+    "externalReferenceCode": "2526556",
+    "fileExtension": "zip",
+    "id": 2526556,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 422783,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 1087-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2683145/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2683145"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2683145"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2683145"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2683145"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+1179-2022+CATETER+QUICK+SET+9MM+C%C3%82NULA%2C+60+CM+DE+TUBO+e+outro.zip/212cbc31-2bf9-0fe0-5f4d-60c750d2d5bd?version=1.0&t=1711223967616",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-10-11T12:22:42Z",
+    "dateModified": "2024-03-23T19:59:27Z",
+    "description": "CATETER QUICK SET 9MM CÂNULA, 60 CM DE TUBO e outro",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/zip",
+    "externalReferenceCode": "2683145",
+    "fileExtension": "zip",
+    "id": 2683145,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 290162,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 1179-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2719210/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2719210"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2719210"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2719210"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/2719210"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/2937961/Dispensa+de+Licita%C3%A7%C3%A3o+1171-2022+FRALDA+DESCART%C3%81VEL+ADULTO+G+DE+70+A+90KG.pdf/42c190a5-51cf-101d-8371-57c3f6f976a9?version=1.0&t=1711223999321",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Galeno",
+      "givenName": "Rildo",
+      "id": 988787,
+      "name": "Rildo Galeno"
+    },
+    "customFields": [],
+    "dateCreated": "2022-10-10T17:57:07Z",
+    "dateModified": "2024-03-23T19:59:59Z",
+    "description": "FRALDA DESCARTÁVEL ADULTO G DE 70 A 90KG",
+    "documentFolderId": 2937961,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "2719210",
+    "fileExtension": "pdf",
+    "id": 2719210,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 180865,
+    "taxonomyCategoryBriefs": [],
+    "title": "Dispensa de Licitação 1171-2022",
+    "source_folder": {
+      "id": 2937961,
+      "name": "Dispensa de Licitação 2023"
+    }
+  }
+]

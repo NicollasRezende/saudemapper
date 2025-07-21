@@ -1,0 +1,230 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45927/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45927"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45927"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45927"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45927"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45927/Preview-1000x0/Fundac%CC%A7a%CC%83oHemocentro.png?t=1647966201452",
+        "height": 183,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 8112,
+        "width": 217
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45927/Thumbnail-300x300/Fundac%CC%A7a%CC%83oHemocentro.png?t=1647966201452",
+        "height": 183,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 8112,
+        "width": 217
+      }
+    ],
+    "contentUrl": "/documents/37101/45822/Fundac%CC%A7a%CC%83oHemocentro.png/cf42eccc-2f1e-7501-3591-26c667fa6eb3?version=1.0&t=1647966201452",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-22T16:23:21Z",
+    "dateModified": "2022-03-22T16:23:21Z",
+    "description": "",
+    "documentFolderId": 45822,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "44017",
+    "fileExtension": "png",
+    "id": 45927,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 8893,
+    "taxonomyCategoryBriefs": [],
+    "title": "FundaçãoHemocentro",
+    "source_folder": {
+      "id": 45822,
+      "name": "Órgãos Vinculados"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45933/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45933"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45933"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45933"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45933"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45933/Preview-1000x0/Fepecs.png?t=1647966202040",
+        "height": 126,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 16736,
+        "width": 184
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45933/Thumbnail-300x300/Fepecs.png?t=1647966202040",
+        "height": 126,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 16736,
+        "width": 184
+      }
+    ],
+    "contentUrl": "/documents/37101/45822/Fepecs.png/d04f06f3-328f-f38a-0038-bf3441513396?version=1.0&t=1647966202040",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-22T16:23:22Z",
+    "dateModified": "2022-03-22T16:23:22Z",
+    "description": "",
+    "documentFolderId": 45822,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "44028",
+    "fileExtension": "png",
+    "id": 45933,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 17513,
+    "taxonomyCategoryBriefs": [],
+    "title": "Fepecs",
+    "source_folder": {
+      "id": 45822,
+      "name": "Órgãos Vinculados"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45939/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45939"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45939"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45939"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45939"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45939/Preview-1000x0/ConselhodeSaude.jpeg?t=1647966202433",
+        "height": 106,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 2804,
+        "width": 125
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45939/Thumbnail-300x300/ConselhodeSaude.jpeg?t=1647966202433",
+        "height": 106,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 2804,
+        "width": 125
+      }
+    ],
+    "contentUrl": "/documents/37101/45822/ConselhodeSaude.jpeg/61ee6cb5-ba47-6d40-dfe5-996b2bd41064?version=1.0&t=1647966202433",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-22T16:23:22Z",
+    "dateModified": "2022-03-22T16:23:22Z",
+    "description": "",
+    "documentFolderId": 45822,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "44039",
+    "fileExtension": "jpeg",
+    "id": 45939,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 12492,
+    "taxonomyCategoryBriefs": [],
+    "title": "ConselhodeSaude",
+    "source_folder": {
+      "id": 45822,
+      "name": "Órgãos Vinculados"
+    }
+  }
+]

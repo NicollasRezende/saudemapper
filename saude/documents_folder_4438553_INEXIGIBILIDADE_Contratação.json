@@ -1,0 +1,185 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438556/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438556"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438556"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438556"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438556"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438553/Contratacao+INEX+05+2025+DODF.pdf/c47e496f-50f8-3e92-2407-045108363214?version=1.0&t=1751471429337",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T15:50:28Z",
+    "dateModified": "2025-07-02T15:50:29Z",
+    "description": "",
+    "documentFolderId": 4438553,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4438556",
+    "fileExtension": "pdf",
+    "id": 4438556,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7883,
+    "taxonomyCategoryBriefs": [],
+    "title": "Contratacao INEX 05 2025 DODF.pdf",
+    "source_folder": {
+      "id": 4438553,
+      "name": "INEXIGIBILIDADE Contratação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438566/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438566"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438566"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438566"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438566"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438553/Contratacao+INEX+10+2025+DODF.pdf/05aa9d7d-bbb9-6793-0d88-4f520932cbb8?version=1.0&t=1751471647749",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T15:54:07Z",
+    "dateModified": "2025-07-02T15:54:07Z",
+    "description": "",
+    "documentFolderId": 4438553,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4438566",
+    "fileExtension": "pdf",
+    "id": 4438566,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 7895,
+    "taxonomyCategoryBriefs": [],
+    "title": "Contratacao INEX 10 2025 DODF.pdf",
+    "source_folder": {
+      "id": 4438553,
+      "name": "INEXIGIBILIDADE Contratação"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438576/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438576"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438576"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438576"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/4438576"
+      }
+    },
+    "adaptedImages": [],
+    "contentUrl": "/documents/37101/4438553/Resultado+INEX+09+2025+DODF+26+06+25+Pg+59.pdf/8604cdee-0e3a-2092-3bc1-94ceb31b49a2?version=1.0&t=1751471928708",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Álvares",
+      "givenName": "Alexandre",
+      "id": 3164542,
+      "name": "Alexandre Álvares"
+    },
+    "customFields": [],
+    "dateCreated": "2025-07-02T15:58:48Z",
+    "dateModified": "2025-07-02T15:58:48Z",
+    "description": "",
+    "documentFolderId": 4438553,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "application/pdf",
+    "externalReferenceCode": "4438576",
+    "fileExtension": "pdf",
+    "id": 4438576,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 1003081,
+    "taxonomyCategoryBriefs": [],
+    "title": "Resultado INEX 09 2025 DODF 26 06 25 Pg 59.pdf",
+    "source_folder": {
+      "id": 4438553,
+      "name": "INEXIGIBILIDADE Contratação"
+    }
+  }
+]

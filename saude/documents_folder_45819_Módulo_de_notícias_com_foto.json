@@ -1,0 +1,534 @@
+[
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45885/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45885"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45885"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45885"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45885"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45885/Preview-1000x0/Banner-Escala-de-plant%C3%A3o-1.jpg?t=1647814186237",
+        "height": 553,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 40274,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45885/Thumbnail-300x300/Banner-Escala-de-plant%C3%A3o-1.jpg?t=1647814186237",
+        "height": 166,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 7286,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/Banner-Escala-de-plant%C3%A3o-1.jpg/e47c3a18-3481-80bb-30fe-24f4a635f205?version=1.0&t=1647814186237",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:09:46Z",
+    "dateModified": "2022-03-20T22:09:46Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "42289",
+    "fileExtension": "jpg",
+    "id": 45885,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 92011,
+    "taxonomyCategoryBriefs": [],
+    "title": "Banner-Escala-de-plantão-1",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45891/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45891"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45891"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45891"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45891"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45891/Preview-1000x0/destaque-renova%C3%A7%C3%A3o-rede.jpg?t=1647814186839",
+        "height": 425,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 31786,
+        "width": 640
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45891/Thumbnail-300x300/destaque-renova%C3%A7%C3%A3o-rede.jpg?t=1647814186839",
+        "height": 199,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9124,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/destaque-renova%C3%A7%C3%A3o-rede.jpg/d65f0c47-4156-3989-69e9-0cc3fc2ac429?version=1.0&t=1647814186839",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:09:46Z",
+    "dateModified": "2022-03-20T22:09:46Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "42300",
+    "fileExtension": "jpg",
+    "id": 45891,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 50524,
+    "taxonomyCategoryBriefs": [],
+    "title": "destaque-renovação-rede",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45897/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45897"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45897"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45897"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45897"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45897/Preview-1000x0/servidores-ses-site.jpg?t=1647816167150",
+        "height": 425,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 28315,
+        "width": 640
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45897/Thumbnail-300x300/servidores-ses-site.jpg?t=1647816167150",
+        "height": 199,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9383,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/servidores-ses-site.jpg/df6bc13d-29b0-16a7-05e2-5a2f7c32c540?version=1.0&t=1647816167150",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:42:47Z",
+    "dateModified": "2022-03-20T22:42:47Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "42518",
+    "fileExtension": "jpg",
+    "id": 45897,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 127481,
+    "taxonomyCategoryBriefs": [],
+    "title": "servidores-ses-site",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45903/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45903"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45903"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45903"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45903"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45903/Preview-1000x0/Banner-Voluntariado.jpg?t=1647816167528",
+        "height": 553,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 26018,
+        "width": 1000
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45903/Thumbnail-300x300/Banner-Voluntariado.jpg?t=1647816167528",
+        "height": 166,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 5196,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/Banner-Voluntariado.jpg/95f9018f-fdfd-23ef-da3d-ef78639625b6?version=1.0&t=1647816167528",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:42:47Z",
+    "dateModified": "2022-03-20T22:42:47Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "42528",
+    "fileExtension": "jpg",
+    "id": 45903,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 64602,
+    "taxonomyCategoryBriefs": [],
+    "title": "Banner-Voluntariado",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45909/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45909"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45909"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45909"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45909"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45909/Preview-1000x0/changelogo.jpg?t=1647816168032",
+        "height": 463,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 36570,
+        "width": 945
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45909/Thumbnail-300x300/changelogo.jpg?t=1647816168032",
+        "height": 147,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 9170,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/changelogo.jpg/545f0e50-6f1a-cbb5-c7d5-30551508f06e?version=1.0&t=1647816168032",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:42:48Z",
+    "dateModified": "2022-03-20T22:42:48Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/jpeg",
+    "externalReferenceCode": "42544",
+    "fileExtension": "jpg",
+    "id": 45909,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 123862,
+    "taxonomyCategoryBriefs": [],
+    "title": "changelogo",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45915/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45915"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45915"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45915"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45915"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45915/Preview-1000x0/banner_coronavirus_covid-19.png?t=1647816168407",
+        "height": 410,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 229937,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45915/Thumbnail-300x300/banner_coronavirus_covid-19.png?t=1647816168407",
+        "height": 164,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 53415,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/banner_coronavirus_covid-19.png/d5683080-edc0-6b10-5c5c-f1abaf42ce66?version=1.0&t=1647816168407",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:42:48Z",
+    "dateModified": "2022-03-20T22:42:48Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "42557",
+    "fileExtension": "png",
+    "id": 45915,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 196019,
+    "taxonomyCategoryBriefs": [],
+    "title": "banner_coronavirus_covid-19",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  },
+  {
+    "actions": {
+      "get-rendered-content-by-display-page": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45921/rendered-content-by-display-page/{displayPageKey}"
+      },
+      "get": {
+        "method": "GET",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45921"
+      },
+      "replace": {
+        "method": "PUT",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45921"
+      },
+      "update": {
+        "method": "PATCH",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45921"
+      },
+      "delete": {
+        "method": "DELETE",
+        "href": "https://www.saude.df.gov.br/o/headless-delivery/v1.0/documents/45921"
+      }
+    },
+    "adaptedImages": [
+      {
+        "contentUrl": "/o/adaptive-media/image/45921/Preview-1000x0/site-acesso-a-informac%CC%A7a%CC%83o.png?t=1647816168659",
+        "height": 420,
+        "resolutionName": "Preview-1000x0",
+        "sizeInBytes": 101789,
+        "width": 750
+      },
+      {
+        "contentUrl": "/o/adaptive-media/image/45921/Thumbnail-300x300/site-acesso-a-informac%CC%A7a%CC%83o.png?t=1647816168659",
+        "height": 168,
+        "resolutionName": "Thumbnail-300x300",
+        "sizeInBytes": 20515,
+        "width": 300
+      }
+    ],
+    "contentUrl": "/documents/37101/45819/site-acesso-a-informac%CC%A7a%CC%83o.png/1b4b2c6e-ab79-2998-90c9-f98ff8be5e7c?version=1.0&t=1647816168659",
+    "creator": {
+      "additionalName": "",
+      "contentType": "UserAccount",
+      "familyName": "Test",
+      "givenName": "Test",
+      "id": 37107,
+      "name": "Test Test"
+    },
+    "customFields": [],
+    "dateCreated": "2022-03-20T22:42:48Z",
+    "dateModified": "2022-03-20T22:42:48Z",
+    "description": "",
+    "documentFolderId": 45819,
+    "documentType": {
+      "availableLanguages": [],
+      "contentFields": [],
+      "description": "",
+      "name": "Documento básico"
+    },
+    "encodingFormat": "image/png",
+    "externalReferenceCode": "42568",
+    "fileExtension": "png",
+    "id": 45921,
+    "keywords": [],
+    "numberOfComments": 0,
+    "relatedContents": [],
+    "renderedContents": [],
+    "siteId": 37101,
+    "sizeInBytes": 102457,
+    "taxonomyCategoryBriefs": [],
+    "title": "site-acesso-a-informação",
+    "source_folder": {
+      "id": 45819,
+      "name": "Módulo de notícias com foto"
+    }
+  }
+]
