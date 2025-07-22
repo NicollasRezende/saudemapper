@@ -19,8 +19,8 @@ SITE_ID = "37101"
 # ========================================
 
 # Usuário e senha para autenticação
-USERNAME = "nicollas.pereira@seatecnologia.com.br"
-PASSWORD = "N1c0ll4s@22005"
+USERNAME = "email aqui"
+PASSWORD = "Senha aqui"
 
 # Token CSRF (opcional - será obtido automaticamente após login)
 CSRF_TOKEN = None  # Deixe None para obter automaticamente
